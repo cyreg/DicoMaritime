@@ -24,10 +24,10 @@ def index():
         word_to_translate = request.form.get('word')
         if word_to_translate:
             # Essayer de traduire de l'anglais vers le français
-            translation_data = find_translation(word_to_translate, 'english', 'french', file_path='/home/nabu/DicoMaritime/translations.csv')
+            translation_data = find_translation(word_to_translate, 'english', 'french')
             # Si ce n'est pas trouvé, essayer du français vers l'anglais
             if not translation_data:
-                translation_data = find_translation(word_to_translate, 'french', 'english', file_path='/home/nabu/DicoMaritime/translations.csv')
+                translation_data = find_translation(word_to_translate, 'french', 'english')
             
             if not translation_data:
                 error = f'Le mot "{word_to_translate}" n\'a pas été trouvé dans le dictionnaire.'
@@ -49,7 +49,7 @@ def get_suggestions(prefix, file_path='translations.csv'):
 def suggest():
     query = request.args.get('q', '')
     if len(query) >= 3:
-        suggestions = get_suggestions(query, file_path='/home/nabu/DicoMaritime/translations.csv')
+        suggestions = get_suggestions(query)
         return jsonify(suggestions)
     return jsonify([])
 
