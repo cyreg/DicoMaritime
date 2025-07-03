@@ -3910,9 +3910,9 @@ Bullet stream;Trajectoire de la balle
 Bullet stream;Trajectoire des balles
 Bullring;'Chaumard d''étrave'
 Bullring;'Ecubier central/d''étrave'
-'Bull''s eye';Oculus
-'Bull''s eye';Verre de hublot
-'Bull''s eye (US) (space location mark';Repère de local
+Bull's eye';Oculus
+Bull's eye';Verre de hublot
+Bull's eye (US) (space location mark';Repère de local
 Bulwark;Bastingage
 Bulwark;Panneau de signature radar
 Bulwark;Pavois
@@ -3926,6 +3926,8 @@ Bundle (of pipes...);Fardelage (de tuyaux...)
 Bungee;Sandow
 Bunk;Couchette
 Bunk/berth;Bannette
+Bunkering;Soutage
+Bunkering station ; Poste de soutage
 Buoy;Bouée
 Buoy mooring line;Orin
 Buoy processing;Traitement de bouée
@@ -3942,7 +3944,7 @@ Buoy barrel;Bouée tonne
 Buoy bell;Bouée à cloche
 Buoy breeches;Bouée à culotte
 Buoy cable;'Bouée d''orin'
-Buoy cable;Bouée marquant un câblebouée télégr
+Buoy cable;Bouée marquant un câble
 Buoy can;Bouée plate
 Buoy channel;Bouée de chenal
 Buoy chequered;Bouée à damiers
@@ -14970,7 +14972,7 @@ In situ inspection;Vérification sans dépose
 In station (to be);Etre à son poste
 In tandem;En cascade
 In the building/construction dock;Dans la forme de construction
-In the event of;Cas de; en
+In the event of; En cas de 
 In the first instance (or place);En premier lieu
 In the operating configuration/posit;En configuration d'exploitation
 In the shape of a truncated cone;Forme tronconique
@@ -14999,31 +15001,31 @@ Inboard shafting;Ligne d'arbre intermédiaire
 Incandescence;Incandescence sans combustion
 Incandescent;Incandescent
 Incased (encased);Sous protection (mécanique)
-Inch;Pouce (25;4 mm)
+Inch;Pouce (25,4 mm)
 Inch (to);Avancer pas à pas (faire)
 Incident video sequence;"Animation d' ""incident"""
 Incident (major fault);Incident (alarme) (défaut majeur)
 Incident / accident;Sinistre
-Incident; technical event/occurence;Fait technique
+Incident technical event/occurence;Fait technique
 Inclination;Inclinaison
 Inclining experiment;Expérience/essai de stabilité
 Inclinometer;Indicateur de gîte
 Inclinometer;Indicateur de roulis
 Inclusion;Inclusion
-Inclusion; flux;Inclusion de flux
-Inclusion; metallic;Inclusion métallique
-Inclusion; oxide;Inclusion d'oxyde
-Inclusion; slag;Inclusion de laitier
-Inclusion; solid;Inclusion solide
+Inclusion flux;Inclusion de flux
+Inclusion metallic;Inclusion métallique
+Inclusion oxide;Inclusion d'oxyde
+Inclusion slag;Inclusion de laitier
+Inclusion solid;Inclusion solide
 IncomIng call indication by flashIng;Renforcement d'appel téléph. (par ad
 IncomIng goods dept / goods inwards;Salle des recettes
-Incoming;Arrivée; d'
+Incoming; d'Arrivée 
 Incoming call;Communication d'arrivée (téléph.)
 Incoming feeder;Aboutissant
 Incomplete fusion;Collage (soudage)
 Incompletely filled groove;Manque d'épaisseur
 Inconsistency;Etat incohérent
-Incorrect manoeuvre/operation;Manoeuvre; fausse
+Incorrect manoeuvre/operation; Fausse manoeuvre 
 Increase in mean rate of revolution;Augmentation du nombre de tours moye
 Increase of weight when going deep (;Alourdissement
 Increase (on control panel tally);Plus (sur libellé)
@@ -15036,98 +15038,98 @@ Indent;Aplomb
 Indentation;Dentelure
 Indentation hardness;Dureté par pénétration
 Indentation / recess;Empreinte
-Indentation; mortise;Adent
+Indentation; mortise Adent
 Indention;Aplomb
 Indention;Cascade (dans une arborescence)
 Indenture;Aplomb
 Independant submarine power module;Module d'Energie Sous-Marin Autonome
 Independent safety auditor;Responsable indépendant des audits d
-Index B for bending; S for shear (ex;Indice B pour flexion; S pour cisail
+Index B for bending S for shear (ex;Indice B pour flexion S pour cisailllement)
 Index of colour rendition;Indice de restitution des couleurs
 Indexes/indices;Indices
 Indexing;Indexage
-Index; consumer price;Indice des prix à la consommation
-Index; cost;Indice de mise à jour
-Index; frequency modulation;Indice de modulation de fréquence
-Index; ideal;Indice idéal
-Index; limiting oxygen;Indice limite d'oxygène
-Index; modulation;Indice de modulation
-Index; price;Indice de prix
-Index; proof tracking;Indice de résistance au cheminement
-Index; protection;Indice de protection
-Index; refractive;Indice de réfraction
-Index; room;Indice du local
-Index; thrust;Indice de poussée
-Index; torque;Indice de poussée
-Index; viscosity;Indice de viscosité
+Index consumer price;Indice des prix à la consommation
+Index cost;Indice de mise à jour
+Index frequency modulation;Indice de modulation de fréquence
+Index ideal;Indice idéal
+Index limiting oxygen;Indice limite d'oxygène
+Index modulation;Indice de modulation
+Index price;Indice de prix
+Index proof tracking;Indice de résistance au cheminement
+Index protection;Indice de protection
+Index refractive;Indice de réfraction
+Index room;Indice du local
+Index thrust;Indice de poussée
+Index torque;Indice de poussée
+Index viscosity;Indice de viscosité
 Indication panel;Tableau de signalisation
-Indication; transmitted;Signalisation émise
+Indication transmitted;Signalisation émise
 Indicator;Comparateur
 Indicator;Indicateur
 Indicator box;Coffret de signalisation
 Indicator lamp;Signalisation lumineuse
-Indicator lamp; check-fire;Voyant de cessez le feu
-Indicator lamp; electrical fault;Signalisation défaut électrique
-Indicator lamp; remote;Signalisation déportée
+Indicator lamp check-fire;Voyant de cessez le feu
+Indicator lamp electrical fault;Signalisation défaut électrique
+Indicator lamp remote;Signalisation déportée
 Indicator light/lamp;Voyant
-Indicator; Helm;Axiomètre de gouvernail
-Indicator; alert and direction findi;Indicateur d'alerte gonio
-Indicator; amount;Indicateur de balourd
-Indicator; angle;Indicateur d'angle
-Indicator; auxiliary console control;Témoin de commande par pupitre auxil
-Indicator; battery discharged;Voyant batterie déchargée
-Indicator; blade pitch;Indicateur de pas des pales
-Indicator; blown fuse;Indicateur de fusible fondu
-Indicator; cavitation;Indicateur de cavitation
-Indicator; clogging;Indicateur de colmatage
-Indicator; course;Indicateur de cap
-Indicator; data signalling rate;Indicateur de vitesses d'émission de
-Indicator; engine temperature;Indicateur de température de  moteur
-Indicator; explosive charge release;Témoin de largage charge
-Indicator; explosive charge release;Voyant charge larguée
-Indicator; fault;Indicateur de défauts
-Indicator; float;Indicateur à flotteur
-Indicator; flow;Contrôleur de circulation de fluide
-Indicator; functional position;Témoin de position fonctionnnelle
-Indicator; glide slope;Indicateur de pente de déscente
-Indicator; guiderope release;Témoin de largage de guiderope
-Indicator; gyro lock;Voyant verrouillage gyroscope
-Indicator; gyro maintenance;Voyant entretien gyroscope
-Indicator; leakage;Témoin de fuites
-Indicator; local;Signalisation locale
-Indicator; main contact status;Témoin de position des contacts prin
-Indicator; mains power;Témoin tension secteur
-Indicator; paid-out length;Indicateur de chaîne filée
-Indicator; phase sequence;Indicateur d'ordre des phases
-Indicator; plan position (PPI);Indicateur panoramique (IP)
-Indicator; position;Témoin de position
-Indicator; progress;Indicateur d'avancement
-Indicator; propulsor switched on fro;Témoin de mise en marche des propuls
-Indicator; propulsor zero;Témoin zéro du propulseur
-Indicator; radiation;Indicateur de qualité de rayonnement
-Indicator; radiation status;Lettre de régime d'émission
-Indicator; rate of fuel flow;Indicateur de débit de carburant
-Indicator; reflecting-type;Indicateur à réflexion
-Indicator; remote;Signalisation à distance
-Indicator; repeater;Indicateur répétiteur
-Indicator; reverse (on waterjet cont;Indicateur d'inversion de marche
-Indicator; ringing;Indicateur de sonnerie
-Indicator; rudder angle;Indicateur d'angle de barre
-Indicator; running;Indicateur de fonctionnement
-Indicator; searchlight;Témoin projecteur
-Indicator; setting;Témoin d'armement de la commande
-Indicator; shaft position i;Indicateur de position de rotor
-Indicator; sight flow;Contrôleur de circulation
-Indicator; standby (Standby Status i;Indicateur d'état d'attente
-Indicator; steering;Axiomètre de barre
-Indicator; strip;Indicateur linéaire
-Indicator; test;Indicateur d'essais
-Indicator; through-vision type;Indicateur à transparence
-Indicator; trim;Indicateur d'assiette
-Indicator; unbalance;Indicateur de balourd
-Indicator; valve position;Indicateur de position de vanne
-Indicator; visual;Indicateur optique
-Indicator; water level;Indicateur de niveau d'eau
+Indicator Helm;Axiomètre de gouvernail
+Indicator alert and direction findi;Indicateur d'alerte gonio
+Indicator amount;Indicateur de balourd
+Indicator angle;Indicateur d'angle
+Indicator auxiliary console control;Témoin de commande par pupitre auxil
+Indicator battery discharged;Voyant batterie déchargée
+Indicator blade pitch;Indicateur de pas des pales
+Indicator blown fuse;Indicateur de fusible fondu
+Indicator cavitation;Indicateur de cavitation
+Indicator clogging;Indicateur de colmatage
+Indicator course;Indicateur de cap
+Indicator data signalling rate;Indicateur de vitesses d'émission de
+Indicator engine temperature;Indicateur de température de  moteur
+Indicator explosive charge release;Témoin de largage charge
+Indicator explosive charge release;Voyant charge larguée
+Indicator fault;Indicateur de défauts
+Indicator float;Indicateur à flotteur
+Indicator flow;Contrôleur de circulation de fluide
+Indicator functional position;Témoin de position fonctionnnelle
+Indicator glide slope;Indicateur de pente de déscente
+Indicator guiderope release;Témoin de largage de guiderope
+Indicator gyro lock;Voyant verrouillage gyroscope
+Indicator gyro maintenance;Voyant entretien gyroscope
+Indicator leakage;Témoin de fuites
+Indicator local;Signalisation locale
+Indicator main contact status;Témoin de position des contacts prin
+Indicator mains power;Témoin tension secteur
+Indicator paid-out length;Indicateur de chaîne filée
+Indicator phase sequence;Indicateur d'ordre des phases
+Indicator plan position (PPI);Indicateur panoramique (IP)
+Indicator position;Témoin de position
+Indicator progress;Indicateur d'avancement
+Indicator propulsor switched on fro;Témoin de mise en marche des propuls
+Indicator propulsor zero;Témoin zéro du propulseur
+Indicator radiation;Indicateur de qualité de rayonnement
+Indicator radiation status;Lettre de régime d'émission
+Indicator rate of fuel flow;Indicateur de débit de carburant
+Indicator reflecting-type;Indicateur à réflexion
+Indicator remote;Signalisation à distance
+Indicator repeater;Indicateur répétiteur
+Indicator reverse (on waterjet cont;Indicateur d'inversion de marche
+Indicator ringing;Indicateur de sonnerie
+Indicator rudder angle;Indicateur d'angle de barre
+Indicator running;Indicateur de fonctionnement
+Indicator searchlight;Témoin projecteur
+Indicator setting;Témoin d'armement de la commande
+Indicator shaft position i;Indicateur de position de rotor
+Indicator sight flow;Contrôleur de circulation
+Indicator standby (Standby Status i;Indicateur d'état d'attente
+Indicator steering;Axiomètre de barre
+Indicator strip;Indicateur linéaire
+Indicator test;Indicateur d'essais
+Indicator through-vision type;Indicateur à transparence
+Indicator trim;Indicateur d'assiette
+Indicator unbalance;Indicateur de balourd
+Indicator valve position;Indicateur de position de vanne
+Indicator visual;Indicateur optique
+Indicator water level;Indicateur de niveau d'eau
 Indictor; range scale (on a radar se;Indicateur d'échelle de distance (d'
 Individual Packages (Vol 3 of SORM)(;Ordres Individuelles (SAW II)
 Induce;Induire
@@ -15162,8 +15164,8 @@ Inertial firing mechanism;Mise de feu à inertie
 Inertial reference frame;Système de référence d'inertie
 Inertial reference system / frame;Trièdre de référence d'inertie/systè
 Inertial resistance due to velocity;Résistance inertielle due à la vites
-Inertia; ship's mass product of;Produit d'inertie  massique du navir
-Inertia; ship's mass product of;Produit d'inertie massique du navire
+Inertia ship's mass product of;Produit d'inertie  massique du navir
+Inertia ship's mass product of;Produit d'inertie massique du navire
 Inerting;Inertage
 Inferior category;Classe inférieure
 Inflammable;Inflammable
@@ -15179,10 +15181,10 @@ Influence firing mechanism;Mise de feu à influence
 Information Control Division (SAW II;Section Contrôle des Informations(SA
 Information highway;Autoroute de l'information
 Information technology;Informatique
-Information; classified;Information protégée
-Information; flight;Information de vol
-Information; on/off;"Information ""TOR"""
-Information; tactical;Information tactique
+Information classified;Information protégée
+Information flight;Information de vol
+Information on/off;"Information ""TOR"""
+Information tactical;Information tactique
 Infra red illuminator;Illuminateur infrarouge
 Infrared image (of a warship; ...);Image infrarouge (d'un navire; ...)
 Infrared linescan system;Analyseur infrarouge à balayage liné
@@ -15204,7 +15206,7 @@ Inhaul;Hâle-à-bord
 Inherent filtration;Filtration inhérente
 Inhibit (gate);Interdiction (porte)
 Inhibited;Inhibé
-Inhibition of safety devices;Inhibition de sécurités (élec.; ...)
+Inhibition of safety devices;Inhibition de sécurités (élec. ...)
 Inhibition of safety devices;Mise hors service de sécurités
 Inhibitor;Inhibiteur
 Initial and final task;Evénements d'entrée et de sortie (pl
@@ -15215,9 +15217,9 @@ Initial load of products;Charges initiales de produits
 Initial logistics;Logistique initiale
 Initial sea trials;Première sortie à la mer
 Initial work up (of ship and crew);Entraînement préparatoire
-Initial (to); to sign;Viser
+Initial (to) to sign;Viser
 Initial / fInal stage;Début / fin (de configuration)
-Initial / trigger;Déclencher (une action; une réunion
+Initial / trigger;Déclencher (une action, une réunion)
 Initialization;Initialisation
 Initiate (to);Initialiser
 Initiating cracks;Effectuer des amorces
@@ -15225,7 +15227,7 @@ Initiation;Amorçage
 Initiation;Initiation
 Initiation of orders;Lancement de commandes
 Initiator;Amorce
-Initiator;Déclencheur (d'actions; ...)
+Initiator;Déclencheur (d'actions ...)
 Initiator;Initiateur
 Initiators and executants (QA jargon;Déclencheurs / acteurs
 Injection pump delivery;Tuyau d'injection (Diesel)
@@ -15247,18 +15249,18 @@ Inlet ring split;Flasque d'entrée à l'aspiration en 2
 Inlet tube;Adducteur (tuyau)
 Inlet valve rocker;Culbuteur d'admission
 Inlet (for water);Prise d'eau
-Inlet; air;Arrivée d'air
-Inlet; appliance;Prise d'appareil
-Inlet; black water;Arrivée d'eaux noires
-Inlet; clean oil;Sortie liquide épuré
-Inlet; conditioning / displacement w;Alimentation eau de poche
-Inlet; feed water;Arrivée d'eau de mer
-Inlet; make-up/closing water;Alimentation en eau de maintien de f
-Inlet; opening water;Alimentation en eau d'ouverture
-Inlet; sea water;Aspiration d'eau de mer
-Inlet; sea water;Prise d'eau de mer
-Inlet; soiled water;Arrivée d'eaux noires
-Inlet; waste water/sewage;Arrivée d'eaux grises
+Inlet air;Arrivée d'air
+Inlet appliance;Prise d'appareil
+Inlet black water;Arrivée d'eaux noires
+Inlet clean oil;Sortie liquide épuré
+Inlet conditioning / displacement w;Alimentation eau de poche
+Inlet feed water;Arrivée d'eau de mer
+Inlet make-up/closing water;Alimentation en eau de maintien de f
+Inlet opening water;Alimentation en eau d'ouverture
+Inlet sea water;Aspiration d'eau de mer
+Inlet sea water;Prise d'eau de mer
+Inlet soiled water;Arrivée d'eaux noires
+Inlet waste water/sewage;Arrivée d'eaux grises
 Inline;En ligne (pompe)
 Inner bottom;Plafond de double fond
 Inner conductor;Ame d'un câble coaxial
@@ -15298,48 +15300,48 @@ Inspection and test records;Registres de contrôles et d'essais
 Inspection by magnetic particle flow;Contrôle magnétoscopique
 Inspection check-off list;Calendrier d'inspection
 Inspection cover /panel;Tape de visite
-Inspection door / panel;Visite; porte de
+Inspection door / panel;Visite porte de
 Inspection file;Dossier de contrôle
 Inspection hatch;Trappe/tape de visite
 Inspection lamp;Baladeuse
 Inspection process;Chaîne de contrôles
 Inspection requirements;Prescriptions de vérification
 Inspection tooling;Outillage de contrôle
-Inspection / check; terminal connect;Contrôle de bornage
-Inspections; fitting-out;Contrôles d'aménagement
-Inspections; interim;Contrôles intermédiaires (en cours d
-Inspection; Final Installation;Contrôle final d'installation
-Inspection; acceptance;Contrôle de réception
-Inspection; basic;Visite élémentaire
-Inspection; borescope;Contrôle à l'endoscope
-Inspection; cable physical;Contrôle physique des câbles
-Inspection; check;Visite de vérification
-Inspection; complete;Visite générale (VG)
-Inspection; final;Contrôle final
-Inspection; final assembly;Contrôle de montage final
-Inspection; generator;Contrôle des groupes électrogènes
-Inspection; hot gas-path (Gas Turb.);Inspection veine de gaz chauds (TAG)
-Inspection; individual cable;Contrôle particulier de câbles (élec
-Inspection; installation;Contrôle d'installation
-Inspection; intermediate;Visite intermédiaire (installations)
-Inspection; magnetic particle (exami;Contrôle (examen) magnétoscopique
-Inspection; major;Inspection principal
-Inspection; minor;Visite mineure (installations)
-Inspection; partial (PI);Visite fragmentaire
-Inspection; preliminary installation;Contrôle d'installation préliminaire
-Inspection; routine;Visite de routine (installations)
-Inspection; routine;Visite systématique
-Inspection; running;Inspection en marche
-Inspection; standard replacement;Visite par dépose et repose (VD)
-Inspection; standby;Inspection en attente
-Inspection; visual;Contrôle d' aspect
-Inspection; visual;Contrôle visuel
-Inspection; visual;Examen visuel
-Inspection; weld;Contrôle des soudures
+Inspection / check; terminal connect Contrôle de bornage
+Inspections fitting-out;Contrôles d'aménagement
+Inspections interim;Contrôles intermédiaires (en cours d
+Inspection Final Installation;Contrôle final d'installation
+Inspection acceptance;Contrôle de réception
+Inspection basic;Visite élémentaire
+Inspection borescope;Contrôle à l'endoscope
+Inspection cable physical;Contrôle physique des câbles
+Inspection check;Visite de vérification
+Inspection complete;Visite générale (VG)
+Inspection final;Contrôle final
+Inspection final assembly;Contrôle de montage final
+Inspection generator;Contrôle des groupes électrogènes
+Inspection hot gas-path (Gas Turb.);Inspection veine de gaz chauds (TAG)
+Inspection individual cable;Contrôle particulier de câbles (élec
+Inspection installation;Contrôle d'installation
+Inspection intermediate;Visite intermédiaire (installations)
+Inspection magnetic particle (exami;Contrôle (examen) magnétoscopique
+Inspection major;Inspection principal
+Inspection minor;Visite mineure (installations)
+Inspection partial (PI);Visite fragmentaire
+Inspection preliminary installation;Contrôle d'installation préliminaire
+Inspection routine;Visite de routine (installations)
+Inspection routine;Visite systématique
+Inspection running;Inspection en marche
+Inspection standard replacement;Visite par dépose et repose (VD)
+Inspection standby;Inspection en attente
+Inspection visual;Contrôle d' aspect
+Inspection visual;Contrôle visuel
+Inspection visual;Examen visuel
+Inspection weld;Contrôle des soudures
 Inspector;Contrôleur (de travaux)
 Inspector;Inspecteur
 Instability;Instabilité
-Install on board (to);Bord; installer à
+Install on board (to);Bord installer à
 Installation Change Order;Ordre d'évolution à une Installation
 Installation Instructions;Gamme de montage
 Installation manual (instructions);Notice d'installation (prescriptions
@@ -15367,31 +15369,31 @@ Instructions for positioning GRP shi;Principe de positionnement de cales
 Instructions for securing of cable r;Principe de fixation des nappes des
 Instructions for use;Gammes de travail
 Instructions for use;Instructions d'emploi
-Instructions; general;Consignes générales
-Instructions; painting;Plan de mise en peinture
-Instructions; shimming;Principe de calage (cales CVR; métal
-Instructions; special;Consignes particulières
-Instructions; survival;Consignes de survie
+Instructions general;Consignes générales
+Instructions painting;Plan de mise en peinture
+Instructions shimming;Principe de calage (cales CVR métal)
+Instructions special;Consignes particulières
+Instructions survival;Consignes de survie
 Instructor;Instructeur
 Instrument flying;Vol aux instruments
 Instrument rating;Qualification de vol aux instruments
-Instrumentation channel; measurement;Chaîne de mesure
+Instrumentation channel measurement;Chaîne de mesure
 Instrumentation measurement system;Instrumentation chaîne et mesure
 Instrumentman;Technicien instrumentation
-Instruments; measuring;Instruments de mesurage
-Instruments; measuring;Instruments de mesure
-Instruments; navigational;Instruments de navigation
-Instrument; common electronic measur;Appareil de mesure électronique comm
-Instrument; direct reading;Instrument à graduation directe
-Instrument; indicating;Instrument indicateur
-Instrument; measuring;Appareil de mesure
-Instrument; moving coil;Instrument à cadre mobile
-Instrument; moving iron;Instrument à fer tournant
-Instrument; moving magnet;Instrument à aimant mobile
-Instrument; moving-coil;Appareil à cadre mobile
-Instrument; moving-magnet (or meter);Appareil à aimant mobile
-Instrument; temperature measuring;Mesureur de température
-Instrument; thickness measuring;Mesureur d'épaisseur
+Instruments measuring;Instruments de mesurage
+Instruments measuring;Instruments de mesure
+Instruments navigational;Instruments de navigation
+Instrument common electronic measur;Appareil de mesure électronique comm
+Instrument direct reading;Instrument à graduation directe
+Instrument indicating;Instrument indicateur
+Instrument measuring;Appareil de mesure
+Instrument moving coil;Instrument à cadre mobile
+Instrument moving iron;Instrument à fer tournant
+Instrument moving magnet;Instrument à aimant mobile
+Instrument moving-coil;Appareil à cadre mobile
+Instrument moving-magnet (or meter);Appareil à aimant mobile
+Instrument temperature measuring;Mesureur de température
+Instrument thickness measuring;Mesureur d'épaisseur
 Insulate (to);Isoler
 Insulated enclosures;Enceintes isothermiques
 Insulated return system;Mise à la masse isolée
@@ -15411,30 +15413,30 @@ Insulation on hull platIng;Isolation au bordé
 Insulation resistance test;Mesure de résistance d'isolation
 Insulation tester;Contrôleur d'isolement
 Insulation - panelling for decorativ;Isolation - Lambrissage esthétique e
-Insulation; basic;Isolation principale
-Insulation; cryogenic;Isolation cryogénique
-Insulation; double;Isolation double
-Insulation; double;Isolation double
-Insulation; elastomeric;Isolation élastomère
-Insulation; electric;Isolement électrique
-Insulation; independent;Isolation indépendante
-Insulation; reinforced;Isolation renforcée
-Insulation; supplementary;Isolation supplémentaire
-Insulation; thermal/heat;Isolation thermique
+Insulation basic;Isolation principale
+Insulation cryogenic;Isolation cryogénique
+Insulation double;Isolation double
+Insulation double;Isolation double
+Insulation elastomeric;Isolation élastomère
+Insulation electric;Isolement électrique
+Insulation independent;Isolation indépendante
+Insulation reinforced;Isolation renforcée
+Insulation supplementary;Isolation supplémentaire
+Insulation thermal/heat;Isolation thermique
 Insulator;Isolateur
 Insulator;Pièce isolante
 Insulator retaining groove;Fente de tenue à la pièce isolante
 Insulok mousing;"Mouchetage type ""Insulok"""
 Insurance;Assurance
 Insurance premium;Prime d'assurance
-Insurance; marine;Assurance maritime
+Insurance marine;Assurance maritime
 Insurer;Assureur
 Intake;Admission (machine)
 Intake baseline (on waterjet);Référentiel de la prise d'eau (sur h
 Intake duct;Tuyau de prise d'eau
 Intake ducts and duct accessories;Conduits et accessoires sur conduits
 Intake vent;Tape d'aspiration
-Intake; combustion air;Admission d'air de combustion
+Intake combustion air;Admission d'air de combustion
 Integral actuator;Unité d'action intégrale
 Integral calculus;Calcul intégral
 Integral drive gearing;Réducteur (ou multiplicateur) intégr
@@ -15452,13 +15454,13 @@ Intelligence Specialist;Spécialiste renseignements
 Intelligence gathering;Collecte de renseignements
 Intelligibility;Intelligibilité (de la parole)
 Intensification;Intensification (de la pression)
-Intensifier; image;Amplificateur d'image
+Intensifier image;Amplificateur d'image
 Intensity;Intensité
 Intensity of damage;Intensité d'avarie
-Intensity; luminous;Intensité d'éclairage
-Intensity; radiation;Intensité du rayonnement
-Intensity; shock wave;Intensité d'une onde de choc
-Intensity; wear;Intensité d'usure
+Intensity luminous;Intensité d'éclairage
+Intensity radiation;Intensité du rayonnement
+Intensity shock wave;Intensité d'une onde de choc
+Intensity wear;Intensité d'usure
 Inter modulation;Intermodulation
 Interaction between ships;Effets hydrodynamiques entre navires
 Interactive graphics;Infographie dialoguée
@@ -15470,19 +15472,19 @@ Interchangeable;Amovible
 Interchangeable;Interchangeable
 Interchangeable item;Article interchangeable
 Intercom system;Interphone
-Intercooled Recuperated (gas turbine;T.G. à Ref. intermédiaire et Récupér
+Intercooled Recuperated (gas turbine;T.G. à Ref. intermédiaire et Récupération
 Intercooler;Refroidisseur
 Intercostal;Entremise intercostale
 Interests on overdue payments;Intérêts moratoires
 Interface node;Etape relais
 Interfere with (to);Créer des interférences avec
-Interference;Brouillage (involontairement provoqu
+Interference;Brouillage (involontairement provoquée)
 Interference;Parasite
 Interference;Perturbation
 Interference eliminator;Filtre anti-parasite
 Interference free;Sans perturbation
 Interference rejection;Elimination des interférences
-Interference suppressing;Antiparasite (filtre; résistance etc
+Interference suppressing;Antiparasite (filtre)
 Interfering;Perturbateur
 Interior Communications Technician;Transfiliste
 Interlaminar;Interlaminaire
@@ -15492,13 +15494,13 @@ Interlock;Interrupteur de sécurité
 Interlock;Sécurité
 Interlocked;Solidarisé
 Interlocked with;Verrouillé avec
-Interlocked; locked (hydraulics);Asservi
+Interlocked; locked (hydraulics)
 Interlocking;Interblocage par serrure
 Interlocking;Interverrouillage
-Interlock; electrical;Asservissement électrique
-Interlock; hydraulic;Asservissement hydraulique
-Interlock; racking;"Verrouillage ""embrochage"" ""débrochag"
-Interloc; mechanical;Asservissement mécanique
+Interlock electrical;Asservissement électrique
+Interlock hydraulic;Asservissement hydraulique
+Interlock racking;"Verrouillage ""embrochage"" ""débrochag"
+Interloc mechanical;Asservissement mécanique
 Intermediate Maintenance Availabilit;Interruption pour entretien
 Intermediate formation;Formation intermédiaire
 Intermediate frame;Membrure intermédiaire
@@ -15566,7 +15568,7 @@ Inventory;Inventaire
 Inventory control;Tenue de stock
 Inventory list;Fiche d'inventaire
 Inventory record;Registre d'inventaire
-Inventory return;Gestion;compte-rendu de .
+Inventory return; Compte-rendu de Gestion 
 Inventory / Quantitative check;Contrôle quantitatif
 InvertIng contacts;Inverseurs
 Inverted bucket;Flotteur inversé
@@ -15575,8 +15577,8 @@ Inverter;Commutatrice CC/CA
 Inverter;Convertisseur
 Inverter;Inverseur-électronique
 Inverter;Onduleur
-Inverter; static;Convertisseur statique
-Investment Financial Management Depa;Gestion Financière des Investissemen
+Inverter static;Convertisseur statique
+Investment Financial Management Depa;Gestion Financière des Investissements
 Invitation to tender;Appel d'offres
 Invoice;Facture
 Invoice Department;Suivi des Factures
@@ -15586,7 +15588,7 @@ Involute;Développante
 Invulnerability;Invulnérabilité
 Inward customs clearance;Déclaration de douane
 In-flight adjustment;Recalage en vol
-In-flight refuelIing system;Ravitaillement en vol; installation
+In-flight refuelIing system;Ravitaillement en vol
 In-flight update (missile);Réinformation en vol
 Iodine;Iode
 Ion;Ion
@@ -15595,27 +15597,27 @@ Iron;Fer
 Iron black;Vernis pour ferrures
 Iron clad;Cuirassé (adj.)
 Iron stand;Support de fer à repasser
-Iron; Nodular  / Spheroïdal graphite;Fonte à graphite sphéroïdal (fonte G
-Iron; angle;Fer cornière
-Iron; angle;Fer d'angle
-Iron; angle;Fer en équerre
-Iron; boat-hook;Fer de gaffe
-Iron; cast;Fonte
-Iron; caulking;Fer de calfat
-Iron; cross-section;Fer en croix
-Iron; galvanized;Fer galvanisé
-Iron; grooving;Fer de bouvet simple
-Iron; lamellar cast;Fonte à structure lamellaire
-Iron; malleable cast;Fonte malléable
-Iron; nodular;Fonte en graphite sphéroïdal
-Iron; nodular cast;Fonte à graphite sphéroïdal
-Iron; set;Fer de cintrage
-Iron; soft;Fer doux
-Iron; soldering;Fer à braser
-Iron; soldering;Fer à souder
-Iron; spheroidal graphic;Fonte en graphite sphéroïdal
-Iron; steam;Fer à repasser à vapeur
-Iron; tonguing;Fer de bouvet double
+Iron Nodular  / Spheroïdal graphite;Fonte à graphite sphéroïdal (fonte G
+Iron angle;Fer cornière
+Iron angle;Fer d'angle
+Iron angle;Fer en équerre
+Iron boat-hook;Fer de gaffe
+Iron cast;Fonte
+Iron caulking;Fer de calfat
+Iron cross-section;Fer en croix
+Iron galvanized;Fer galvanisé
+Iron grooving;Fer de bouvet simple
+Iron lamellar cast;Fonte à structure lamellaire
+Iron malleable cast;Fonte malléable
+Iron nodular;Fonte en graphite sphéroïdal
+Iron nodular cast;Fonte à graphite sphéroïdal
+Iron set;Fer de cintrage
+Iron soft;Fer doux
+Iron soldering;Fer à braser
+Iron soldering;Fer à souder
+Iron spheroidal graphic;Fonte en graphite sphéroïdal
+Iron steam;Fer à repasser à vapeur
+Iron tonguing;Fer de bouvet double
 Irradiance;Eclairement énergétique
 Irradiation;Irradiation
 Irregular;Irrégulier
@@ -15646,8 +15648,8 @@ Item;Repère (code)
 Item considered defective;Article incriminé
 Item considered defective;Article présumé défectueux
 Item of supply;Article d'approvisionnement
-Item of supply (RG Aéro term);Ravitaillement; article d'-
-Item selection working group;Articles; groupe de travail de sélec
+Item of supply (RG Aéro term);Ravitaillement article d'-
+Item selection working group;Articles groupe de travail de sélec
 Item to be defined later;Article en attente de codification
 Item to be defined later;Article fictif en attente de codific
 Itemization;Repérage (code)
@@ -15656,68 +15658,68 @@ Items not intended for storage;Travaux à prix faits (jargon DCN)
 Items on the purchase order;Postes à renseigner sur le tableau d
 Items to be supplied (supplies);Approvisionnements
 Items used for fitting and connectin;Eléments de réglage et de raccordeme
-Items; insurance;Articles achetés par précaution(gran
-Items; miscellaneous;Articles divers
-Item; combat essential;Article essentiel au combat
-Item; condemned;Article réformé
-Item; configurable;Elément configurable
-Item; configuration;Article / élément de configuration
-Item; configuration;Articles de configuration
-Item; consumable;Article consommable
-Item; contractor furnished;Article fourni par le vendeur
-Item; contractor furnished;Equipement fourni par le fournisseur
-Item; controlled;Article contrôlé
-Item; critical;Article critique
-Item; defective;Article défectueux
-Item; direct exchange;Article d'échange direct
-Item; end;Article final
-Item; end;Article fini
-Item; expendable;Article consommable
-Item; fast moving;Article de grande consommation
-Item; general-purpose;Article à usage général
-Item; hull integrity;Elément d'intégrité de coque
-Item; line;Article; type d'-
-Item; long lead;Article à longue délai de livraison
-Item; manufactured;Article fabriqué
-Item; matched;Article apparié
-Item; non-proprietary;Article acheté
-Item; non-repairable;Article non réparable
-Item; non-standard;Article non standard
-Item; non-standard;Article spécifique
-Item; non-standard;Composant spécifique
-Item; obsolete;Article périmé
-Item; off-the-shelf;Article de série
-Item; operationally essential;Article essentiel aux opérations
-Item; optional;Article optionnel
-Item; permanent stores;Article non consommable
-Item; prefered;Article préférentiel
-Item; procurement;Article d'approvisionnement
-Item; proprietary;Article couvert par un droit de prop
-Item; recoverable;Article récupérable
-Item; removable;Article amovible
-Item; repairable;Article réparable
-Item; replacement;Article de remplacement
-Item; selected;Article retenu
-Item; selected;Article trié
-Item; serviceable;Article en état de service
-Item; shelf-life;Article à durée de stockage limitée
-Item; shipbuilder supplied;Equipement fourni par le constructeu
-Item; similar;Article similaire
-Item; slow moving;Article de faible consommation
-Item; standard;Article de série
-Item; standard;Article non spécifique
-Item; standard;Article standard
-Item; standard;Composant standard
-Item; substitute;Article de substitution
-Item; superseded;Article périmé
-Item; supply;Article de ravitaillement
-Item; suspect;Article incriminé
-Item; suspect;Article présumé défectueux
-Item; type;Article unique
-Item; unserviceable;Article hors-service
-Item; unstocked item;Articles non détenus en stock; liste
-Item; vendor;Article acheté
-Item; vendor;Article manufacturé
+Items insurance;Articles achetés par précaution(gran
+Items miscellaneous;Articles divers
+Item combat essential;Article essentiel au combat
+Item condemned;Article réformé
+Item configurable;Elément configurable
+Item configuration;Article / élément de configuration
+Item configuration;Articles de configuration
+Item consumable;Article consommable
+Item contractor furnished;Article fourni par le vendeur
+Item contractor furnished;Equipement fourni par le fournisseur
+Item controlled;Article contrôlé
+Item critical;Article critique
+Item defective;Article défectueux
+Item direct exchange;Article d'échange direct
+Item end;Article final
+Item end;Article fini
+Item expendable;Article consommable
+Item fast moving;Article de grande consommation
+Item general-purpose;Article à usage général
+Item hull integrity;Elément d'intégrité de coque
+Item line;Article type d'-
+Item long lead;Article à longue délai de livraison
+Item manufactured;Article fabriqué
+Item matched;Article apparié
+Item non-proprietary;Article acheté
+Item non-repairable;Article non réparable
+Item non-standard;Article non standard
+Item non-standard;Article spécifique
+Item non-standard;Composant spécifique
+Item obsolete;Article périmé
+Item off-the-shelf;Article de série
+Item operationally essential;Article essentiel aux opérations
+Item optional;Article optionnel
+Item permanent stores;Article non consommable
+Item prefered;Article préférentiel
+Item procurement;Article d'approvisionnement
+Item proprietary;Article couvert par un droit de prop
+Item recoverable;Article récupérable
+Item removable;Article amovible
+Item repairable;Article réparable
+Item replacement;Article de remplacement
+Item selected;Article retenu
+Item selected;Article trié
+Item serviceable;Article en état de service
+Item shelf-life;Article à durée de stockage limitée
+Item shipbuilder supplied;Equipement fourni par le constructeu
+Item similar;Article similaire
+Item slow moving;Article de faible consommation
+Item standard;Article de série
+Item standard;Article non spécifique
+Item standard;Article standard
+Item standard;Composant standard
+Item substitute;Article de substitution
+Item superseded;Article périmé
+Item supply;Article de ravitaillement
+Item suspect;Article incriminé
+Item suspect;Article présumé défectueux
+Item type;Article unique
+Item unserviceable;Article hors-service
+Item unstocked item;Articles non détenus en stock; liste
+Item vendor;Article acheté
+Item vendor;Article manufacturé
 Iterative;Itérative
 I.Q.I.;I.Q.I.
 J is crossing left to right;J coupe de gauche à droite
@@ -15728,7 +15730,7 @@ Jack;Connecteur fixe (recevant une fiche)
 Jack;Cric
 Jack;Jack
 Jack;Prise unipolaire (femelle)
-Jack;Vérin; cric
+Jack;Vérin cric
 Jack fork;Chape de vérin
 Jack plug;Prise à jack
 Jack receptacle;Prise jack
@@ -15744,52 +15746,52 @@ Jackstay method;Ravitaillement par câble support
 Jackstay / highline (RAS);Câble support (RAM)
 Jack-operated;A commande par vérin
 Jack-post;Tourillon de levage
-Jack; earphone;Ecouteurs; jack d'
+Jack; earphone
 Jagged;A arêtes vives
-Jagged;Arêtes vives; à
+Jagged;Arêtes vives
 Jam (to);Brouiller
 Jam (to);Coincer
 Jammer;Brouilleur
-Jammer; SALAMANDRE B2 radar;Brouilleur de radar SALAMANDRE B2
-Jammer; TRC 281 communications;Brouilleur de transmission TRC 281
-Jammer; TWT-based;Brouilleur basé sur un tube à ondes
-Jammer; activate (to);Activer le brouilleur
-Jammer; automatic search;Brouilleur à poursuite automatique
-Jammer; infra-red;Brouilleur infrarouge
-Jammer; parachute underslung;Brouilleur sous parachute
-Jammer; radar;Brouilleur de radar
-Jammer; repeater;Brouilleur répéteur
-Jammer; search;Brouilleur chercheur
-Jammer; self-protection;Brouilleur d'autoprotection
-Jammer; stand-off;Brouilleur à grande portée
+Jammer SALAMANDRE B2 radar;Brouilleur de radar SALAMANDRE B2
+Jammer TRC 281 communications;Brouilleur de transmission TRC 281
+Jammer TWT-based;Brouilleur basé sur un tube à ondes
+Jammer activate (to);Activer le brouilleur
+Jammer automatic search;Brouilleur à poursuite automatique
+Jammer infra-red;Brouilleur infrarouge
+Jammer parachute underslung;Brouilleur sous parachute
+Jammer radar;Brouilleur de radar
+Jammer repeater;Brouilleur répéteur
+Jammer search;Brouilleur chercheur
+Jammer self-protection;Brouilleur d'autoprotection
+Jammer stand-off;Brouilleur à grande portée
 Jamming;Bourrage (e.g. imprimante)
 Jamming;Brouillage
 Jamming;Brouillage (volontairement provoqué)
-Jamming; CW;Brouillage en ondes entretenues
-Jamming; barrage;Brouillage en barrage
-Jamming; barrage;Brouillage simultané sur plusieurs g
-Jamming; black;Brouillage noir
-Jamming; blinked;Brouillage intermittent
-Jamming; communications;Brouillage de transmissions
-Jamming; electronic;Brouillage électronique
-Jamming; false target;Brouillage par fausse piste
-Jamming; infra-red;Brouillage infra-rouge
-Jamming; modulated noise;Brouillage par bruit modulé
-Jamming; natural;Brouillage naturel
-Jamming; radar;Brouillage radar
-Jamming; radar noise;Brouillage radar
-Jamming; sidelobe;Brouillage du lobe secondaire
-Jamming; spot;Brouillage local
-Jamming; spot;Brouillage ponctuel
-Jamming; spot/selective;Brouillage sélectif
-Jamming; sweep;Brouillage à balayage de fréquence
-Jamming; sweep;Brouillage par balayage
+Jamming CW;Brouillage en ondes entretenues
+Jamming barrage;Brouillage en barrage
+Jamming barrage;Brouillage simultané sur plusieurs g
+Jamming black;Brouillage noir
+Jamming blinked;Brouillage intermittent
+Jamming communications;Brouillage de transmissions
+Jamming electronic;Brouillage électronique
+Jamming false target;Brouillage par fausse piste
+Jamming infra-red;Brouillage infra-rouge
+Jamming modulated noise;Brouillage par bruit modulé
+Jamming natural;Brouillage naturel
+Jamming radar;Brouillage radar
+Jamming radar noise;Brouillage radar
+Jamming sidelobe;Brouillage du lobe secondaire
+Jamming spot;Brouillage local
+Jamming spot;Brouillage ponctuel
+Jamming spot/selective;Brouillage sélectif
+Jamming sweep;Brouillage à balayage de fréquence
+Jamming sweep;Brouillage par balayage
 Janitorial Locker Room (SAW II);Local de stockage du matériel de pro
 Jar (to);Choquer
 Jaw;Mâchoire
 Jeopardize (to);Peril; mettre en
 Jerk;A-coup
-Jerk;Coup; à
+Jerk;Coup
 Jerk;Saccade
 Jerrycan for collecting condensation;Jerrycan de dalotage
 Jet;Jet
@@ -15803,7 +15805,8 @@ Jettison (to);Jeter par-dessus bord
 Jetty head;Môle
 Jetty (GB);Jetée
 Jetty (UK) / quay (US);Quai
-Jetty; pier;Jetée
+Jetty;Jetée 
+Pier;Jetée
 Jeweled;Facettes (à)
 Jib;Bras d'un treuil
 Jib;Flèche
@@ -15822,13 +15825,14 @@ Job instructions;Gamme de fabrication
 Job order;Demande de concours
 Job order;Fiche de tâche (état de besoin)
 Job request;Demande de prestations
-Job return form;compte-rendu; fiche de travail
+Job return form;compte-rendu fiche de travail
 Job ticket;Ticket de production
 Jobber drill;Foret à queue cylindrique court
 Jog (to);Avancer pas à pas (faire)
 Joggle;Epauler
 Joggling;Jogglinage
-Jogstick (4-way); springloaded;Manipulateur de commande à quatre di
+Jogstick (4-way) springloaded;Manipulateur de commande à quatre direction à
+retour automatique
 Join (to);Joindre
 Joiner's glue;Colle d'ébéniste
 Joining;Ralliage
@@ -15849,86 +15853,85 @@ Joint for stage casing;Joint du corps d'étage avec canal de
 Joint for stuffing box housing;Joint des corps de boîte à garniture
 Joint gap;Ecartement entre faces à souder
 Joint penetration;Pénétration de la soudure
-Joint ring for pump casing; one piec;Joint circulaire du corps de pompe (
-Joint staff functional need;Cahier des charges fonctionnel commu
+Joint ring for pump casing ;Joint circulaire du corps de pompe 
+Joint staff functional need;Cahier des charges fonctionnel commun
 Joint staff publication;Document interarmées britannique
 Joint staff specification;Fiche commune de caractéristiques mi
 Jointed;Articulé
 Jointer;Dégauchisseuse (travail du bois)
 Jointing paste;Pâte à joint
-Joint; Cardan;Joint de Cardan
-Joint; axial ball;Rotule axiale
-Joint; ball;Joint à rotule
-Joint; bayonet;Joint à baïonnette
-Joint; bevel;Joint biseauté
-Joint; binding universal;Joint universel de liaison
-Joint; bolted;Joint boulonné
-Joint; brazed;Joint brasé
-Joint; butt;Joint à franc-bord
-Joint; butt;Joint about
-Joint; butt;Joint abouté
-Joint; butt;Joint bout à bout
-Joint; butt;Soudure bout à bout
-Joint; caulked;Joint calfaté
-Joint; corner;Joint d'angle
-Joint; elbow;Joint articulé
-Joint; expansion;Joint de dilatation
-Joint; expansion;Joint glissant
-Joint; expansion;Joint mobile
-Joint; expansion;Soufflet de dilatation
-Joint; field;Joint de champ
-Joint; fish-plate;Joint à éclisses
-Joint; flange;Joint à collet
-Joint; flanged;Joint à brides
-Joint; flexible rubber;Manchon d'expansion
-Joint; flush;Joint à franc-bord
-Joint; fold;Assemblage replié
-Joint; globe/socket;Joint à calotte sphérique
-Joint; globe/socket;Joint à genou
-Joint; inclined;Assemblage oblique
-Joint; insulating;Joint d'isolement
-Joint; lap;Assemblage à clin
-Joint; lap;Joint à bords emboités
-Joint; lap;Joint à recouvrement
-Joint; lap;Soudure à recouvrement
-Joint; mitered;Joint d'angle
-Joint; overlap;Joint chevauché
-Joint; packed expansion;Joint de dilatation à garniture
-Joint; prefabricated panel;Joint d'assemblage des panneaux préf
-Joint; prefabrication;Joint de préfabrication
-Joint; pre-cut;Joint prédécoupé
-Joint; radial ball;Rotule radiale
-Joint; recessed flange;Joint à brides à emboîtement
-Joint; recessed riveted;Joint à rivure encastrée
-Joint; riveted;Joint rivé
-Joint; rubber expansion;Joint de dilatation en caoutchouc
-Joint; scarf;Joint à enture
-Joint; shell plating;Joint de bordé
-Joint; slip;Accouplement extensible
-Joint; splayed;Joint de paume
-Joint; stiffener-bulkhead;Joint d'assemblage tôles-renforts
-Joint; strap;Assemblage à couvre-joints
-Joint; surface;Assemblage de surface
-Joint; swivel;Articulation à rotule
-Joint; swivel;Articulation à rotule
-Joint; swivel;Joint pivotant
-Joint; swivel;Rotule
-Joint; tee;Joint en T
-Joint; tongue-and-groove;Assemblage à fausse languette
-Joint; transition;Joint de transition
-Joint; universal;Accouplement de cardan
-Joint; universal;Articulation à croisillon
-Joint; universal;Joint à croisillon
-Joint; universal;Joint cardan
-Joint; universal;Joint hollandais
-Joint; universal;Joint universel
-Joint;rotary;Joint tournant
+Joint Cardan;Joint de Cardan
+Joint axial ball;Rotule axiale
+Joint ball;Joint à rotule
+Joint bayonet;Joint à baïonnette
+Joint bevel;Joint biseauté
+Joint binding universal;Joint universel de liaison
+Joint bolted;Joint boulonné
+Joint brazed;Joint brasé
+Joint butt;Joint à franc-bord
+Joint butt;Joint about
+Joint butt;Joint abouté
+Joint butt;Joint bout à bout
+Joint butt;Soudure bout à bout
+Joint caulked;Joint calfaté
+Joint corner;Joint d'angle
+Joint elbow;Joint articulé
+Joint expansion;Joint de dilatation
+Joint expansion;Joint glissant
+Joint expansion;Joint mobile
+Joint expansion;Soufflet de dilatation
+Joint field;Joint de champ
+Joint fish-plate;Joint à éclisses
+Joint flange;Joint à collet
+Joint flanged;Joint à brides
+Joint flexible rubber;Manchon d'expansion
+Joint flush;Joint à franc-bord
+Joint fold;Assemblage replié
+Joint globe/socket;Joint à calotte sphérique
+Joint globe/socket;Joint à genou
+Joint inclined;Assemblage oblique
+Joint insulating;Joint d'isolement
+Joint lap;Assemblage à clin
+Joint lap;Joint à bords emboités
+Joint lap;Joint à recouvrement
+Joint lap;Soudure à recouvrement
+Joint mitered;Joint d'angle
+Joint overlap;Joint chevauché
+Joint packed expansion;Joint de dilatation à garniture
+Joint prefabricated panel;Joint d'assemblage des panneaux préf
+Joint prefabrication;Joint de préfabrication
+Joint pre-cut;Joint prédécoupé
+Joint radial ball;Rotule radiale
+Joint recessed flange;Joint à brides à emboîtement
+Joint recessed riveted;Joint à rivure encastrée
+Joint riveted;Joint rivé
+Joint rubber expansion;Joint de dilatation en caoutchouc
+Joint scarf;Joint à enture
+Joint shell plating;Joint de bordé
+Joint slip;Accouplement extensible
+Joint splayed;Joint de paume
+Joint stiffener-bulkhead;Joint d'assemblage tôles-renforts
+Joint strap;Assemblage à couvre-joints
+Joint surface;Assemblage de surface
+Joint swivel;Articulation à rotule
+Joint swivel;Articulation à rotule
+Joint swivel;Joint pivotant
+Joint swivel;Rotule
+Joint tee;Joint en T
+Joint tongue-and-groove;Assemblage à fausse languette
+Joint transition;Joint de transition
+Joint universal;Accouplement de cardan
+Joint universal;Articulation à croisillon
+Joint universal;Joint à croisillon
+Joint universal;Joint cardan
+Joint universal;Joint hollandais
+Joint universal;Joint universel
+Joint rotary;Joint tournant
 Joule;Joule
 Joule per cubic metre;Joule par mètre cube
 Joule per kilogram Kelvin;Joule par kilogramme Kelvin
-Journal;Torrilon
-Journal;Tourillon
-Journal; hydrostatique;Palier hydrostatique
+Journal;Tourilon
+Journal hydrostatique;Palier hydrostatique
 Joystick;Manipulateur
 Joystick central unit;Unité centrale de manipulateur de co
 Juice extractor;Centrifugeuse
@@ -15965,22 +15968,22 @@ Keel vertical;Quille carlingue
 Keelage (dues);Quillage
 Keelpoint on drawing;Emplacement de la quille (sur un pla
 Keelson side;Carlingue latérale
-Keel; bilge;Quille de bouchain
-Keel; bilge;Quille de roulis
-Keel; cambered;Quille cambrée
-Keel; centre vertical;Quille verticale centrale
-Keel; docking;Quille d'échouage
-Keel; drop;Quille de sécurité
-Keel; false;Quille d'usure
-Keel; plank;Quille de vaigre
-Keel; rigid;Quille rigide
-Keel; vertical;Carlingue axiale
+Keel bilge;Quille de bouchain
+Keel bilge;Quille de roulis
+Keel cambered;Quille cambrée
+Keel centre vertical;Quille verticale centrale
+Keel docking;Quille d'échouage
+Keel drop;Quille de sécurité
+Keel false;Quille d'usure
+Keel plank;Quille de vaigre
+Keel rigid;Quille rigide
+Keel vertical;Carlingue axiale
 Keep a sharp lookout;Faire bonne veille
 Keep afloat (to);Maintenir à flot (se)
 Keep batten;Bar antiroulis
 Keep station (to);Tenir poste
 Keep watch (to);Quart (faire le)
-Keeping on file;Archivage (de documents; ...)
+Keeping on file;Archivage (de documents ...)
 Kelvin;Kelvin
 Kerf;Entraille  /  saignée
 Kerma;Kerma
@@ -15989,7 +15992,7 @@ Kevlar;Kevlar
 Key;Clavette
 Key;Clé
 Key cupboard / keyboard;Armoire à clés
-Key event;Etape clé; événement clé
+Key event;Etape clé; 
 Key goal;Objectif essentiel (d'un projet)
 Key slot ends;Extrémités des logements de clavette
 Key (on keyboard);Touche
@@ -16008,32 +16011,32 @@ Keyway;Détrompeur
 Keyway;Rainure de clavetage
 Keyway;Saignée de clavette
 Key-event;Evénement-clé
-Key; Allen;Clé allen
-Key; Woodruff;Clavette demi-lune
-Key; Woodruff;Clavette Woodruff
-Key; Woodruff;Clavette-disque
-Key; access(triangular section);Clé triangulaire -clé d'accès
-Key; anchor stock;Goupille de jas d'ancre
-Key; axial flow impeller;Clavette des hélices
-Key; balance drum;Clavette du piston d'équilibrage
-Key; coupling;Clavette du demi-accouplement
-Key; disk;Clavette disque
-Key; double entry impeller;Clavette de la roue deux ouïes
-Key; fitted;Clavette ajustée
-Key; function;Touche de fonction
-Key; gib headed;Clavette à talon
-Key; hexagonal (or Allen);Clé à six pans
-Key; impeller;Clavette de la roue
-Key; intermediate coupling;Clavette de l'accouplement intermédi
-Key; parallel;Clavette parallèle
-Key; propeller;Clavette des hélices
-Key; rubber stock/hydraulic blade;Clavette de liaison mèche/safran
-Key; rudder stock/hydraulic cylinder;Clavette de liaison mèche/vérin
-Key; shaft extension;Clavette de bout d'arbre
-Key; shaft sleeve;Clavette de la chemise d'arbre
-Key; suction chamber sleeve;Clavette de la chemise-entretoise cô
-Key; thrust bearing plate;Clavette du plateau de butée
-Key; transmit/receive;Touche alternat
+Key Allen;Clé allen
+Key Woodruff;Clavette demi-lune
+Key Woodruff;Clavette Woodruff
+Key Woodruff;Clavette-disque
+Key access(triangular section);Clé triangulaire -clé d'accès
+Key anchor stock;Goupille de jas d'ancre
+Key axial flow impeller;Clavette des hélices
+Key balance drum;Clavette du piston d'équilibrage
+Key coupling;Clavette du demi-accouplement
+Key disk;Clavette disque
+Key double entry impeller;Clavette de la roue deux ouïes
+Key fitted;Clavette ajustée
+Key function;Touche de fonction
+Key gib headed;Clavette à talon
+Key hexagonal (or Allen);Clé à six pans
+Key impeller;Clavette de la roue
+Key intermediate coupling;Clavette de l'accouplement intermédi
+Key parallel;Clavette parallèle
+Key propeller;Clavette des hélices
+Key rubber stock/hydraulic blade;Clavette de liaison mèche/safran
+Key rudder stock/hydraulic cylinder;Clavette de liaison mèche/vérin
+Key shaft extension;Clavette de bout d'arbre
+Key shaft sleeve;Clavette de la chemise d'arbre
+Key suction chamber sleeve;Clavette de la chemise-entretoise cô
+Key thrust bearing plate;Clavette du plateau de butée
+Key transmit/receive;Touche alternat
 Kidney damage;Atteintes rénales
 Kidney slot;Fente en haricot
 Kill line;Circuit d'arrêt
@@ -16048,25 +16051,25 @@ Kingpost/stump mast;Mâtereau
 Kink (in rope);Coque
 Kit;Panoplie
 Kit;Trousseau
-Kitbag; seaman's;Sac marin
+Kitbag seaman's;Sac marin
 Kitchen scales;Balance de cuisine
 Kitchen timer;Minuteur
 Kite;Plongeur
 Kite otter;Plongeur-divergent
-Kit; chemical detection;Trousse de détection chimique
-Kit; content measurement;Coffret de contrôle de concentration
-Kit; earth connection;Kit de masse
-Kit; first aid;Trousse d'urgence
-Kit; first aid;Trousse de première urgence
-Kit; individual protection;Lot de protection individuelle
-Kit; repair;Trousse de réparation (mec)
-Kit; repair; for inflatable boats;Trousse de réparations embarcations
-Kit; repair; for laminated GRP hull;Trousse de réparations de coque stra
-Kit; spares;Kit de fournitures de rechange
-Kit; terminal crimping;Kit de sertissage de fiches
-Kit; test;Valise d'essais (coffret d'analyses)
-Kit; tool;Lot d'outillage
-Kit; tool;Trousse à outils
+Kit chemical detection;Trousse de détection chimique
+Kit content measurement;Coffret de contrôle de concentration
+Kit earth connection;Kit de masse
+Kit first aid;Trousse d'urgence
+Kit first aid;Trousse de première urgence
+Kit individual protection;Lot de protection individuelle
+Kit repair;Trousse de réparation 
+Kit repair for inflatable boats;Trousse de réparations embarcations
+Kit repair for laminated GRP hull;Trousse de réparations de coque stratifiée
+Kit spares;Kit de fournitures de rechange
+Kit terminal crimping;Kit de sertissage de fiches
+Kit test;Valise d'essais (coffret d'analyses)
+Kit tool;Lot d'outillage
+Kit tool;Trousse à outils
 Klein Chicago gripper;Griffe Klein Chicago
 Klingerite;Klingerite
 Klystron;Klystron
@@ -16079,55 +16082,55 @@ Knee-operated hand washer;Lave-mains à commande au genou
 Knee-operated hand wash-basin;Lave-mains à commande au genou (ramp
 Knife edge;Joint d'un panneau étanche
 Knife sharpener;Fusil
-Knife; boning;Couteau à désosser
-Knife; bread;Couteau à pain
-Knife; butter;Couteau à beurre
-Knife; carving;Couteau à découper
-Knife; cheese;Couteau à fromage
-Knife; cook's;Couteau de chef
-Knife; dessert;Couteau à dessert
-Knife; dinner;Couteau de table
-Knife; filleting;Couteau à filets de sole
-Knife; fish;Couteau à poisson
-Knife; grapefruit;Couteau à pamplemousse
-Knife; ham;Couteau à jambon
-Knife; kitchen;Couteau de cuisine
-Knife; oyster;Couteau à huîtres
-Knife; paring;Couteau d'office
-Knife; scraper;Gratte
-Knife; sharp;Couteau bien aiguisé
-Knife; steak;Couteau à bifteck
-Knife; trace;Couteau à tracer
+Knife boning;Couteau à désosser
+Knife bread;Couteau à pain
+Knife butter;Couteau à beurre
+Knife carving;Couteau à découper
+Knife cheese;Couteau à fromage
+Knife cook's;Couteau de chef
+Knife dessert;Couteau à dessert
+Knife dinner;Couteau de table
+Knife filleting;Couteau à filets de sole
+Knife fish;Couteau à poisson
+Knife grapefruit;Couteau à pamplemousse
+Knife ham;Couteau à jambon
+Knife kitchen;Couteau de cuisine
+Knife oyster;Couteau à huîtres
+Knife paring;Couteau d'office
+Knife scraper;Gratte
+Knife sharp;Couteau bien aiguisé
+Knife steak;Couteau à bifteck
+Knife trace;Couteau à tracer
 Knitted fabric;Tricot
-Knob;"Bouton(+ gros que ""button"")"
-Knob;Moraillon
-Knob; Bakelite;Bouton bakélite
-Knob; adjusting;Bouton de réglage
-Knob; control;Bouton de commande
-Knob; indexing;Bouton cranté
-Knob; knurled;Bouton moleté
-Knob; pointer;Bouton flèche
-Knob; skirted;Bouton à collerette
+Knob"Bouton(+ gros que ""button"")"
+KnobMoraillon
+Knob Bakelite;Bouton bakélite
+Knob adjusting;Bouton de réglage
+Knob control;Bouton de commande
+Knob indexing;Bouton cranté
+Knob knurled;Bouton moleté
+Knob pointer;Bouton flèche
+Knob skirted;Bouton à collerette
 Knock-out tripping;Déclenchement par coup de poing
 Knot (in wood);Noeud de bois
 Knot (nautical mile per hour);Noeud marin
 Knot (speed - kt/kts);Noeud
 Knot / bend / hitch;Noeud
-Knot; becket;Noeud d'écoute
-Knot; bow;Noeud de ris
-Knot; chain;Noeud de chaînette
-Knot; clamping;Noeud de bridage
-Knot; clinch;Noeud de bouline
-Knot; fisherman's;Noeud de pêcheur
-Knot; loop;Noeud à plein poing
-Knot; manrope;Pomme de tourne-vire
-Knot; netting;Noeud de filet
-Knot; overhand;Noeud d'arrêt
-Knot; overhand;Noeud simple/noeud d'arrêt
-Knot; shroud;Noeud de hauban
-Knot; square;Noeud plat
-Knot; stopper;Noeud de bosse
-Knot; surgeon's;Noeud double
+Knot becket;Noeud d'écoute
+Knot bow;Noeud de ris
+Knot chain;Noeud de chaînette
+Knot clamping;Noeud de bridage
+Knot clinch;Noeud de bouline
+Knot fisherman's;Noeud de pêcheur
+Knot loop;Noeud à plein poing
+Knot manrope;Pomme de tourne-vire
+Knot netting;Noeud de filet
+Knot overhand;Noeud d'arrêt
+Knot overhand;Noeud simple/noeud d'arrêt
+Knot shroud;Noeud de hauban
+Knot square;Noeud plat
+Knot stopper;Noeud de bosse
+Knot surgeon's;Noeud double
 Knowledge of materials;Connaissance des matériaux
 Know-how; specialist knowledge;Savoir-faire
 Knuckle;Angle de voûte
@@ -16156,11 +16159,11 @@ Label (to);Reporter une identification (sur un
 Labelled;Repéré
 Labelling procedure;Principe d'étiquetage
 Labels / Labelling;Estampillage
-Laboratory; accredited;Laboratoire accrédité
-Laboratory; analytical chemistry;Laboratoire de chimie analytique
-Laboratory; chemistry;Laboratoire de chimie
-Laboratory; mechanical testing;Laboratoire d'essais mécaniques
-Laboratory; oil analysis;Laboratoire de mesure des huiles
+Laboratory accredited;Laboratoire accrédité
+Laboratory analytical chemistry;Laboratoire de chimie analytique
+Laboratory chemistry;Laboratoire de chimie
+Laboratory mechanical testing;Laboratoire d'essais mécaniques
+Laboratory oil analysis;Laboratoire de mesure des huiles
 Labour;Main-d'oeuvre
 Labour (costs);Salaires
 Labyrinth packing;Labyrinthe de turbine
@@ -16174,25 +16177,25 @@ Lacquer;Vernis
 Ladder;Echelle
 Ladder beam;Montant d'échelle
 Ladder safety hoops;Crinoline d'échelle de mât
-Ladder; Jacob's;Echelle de Jacob
-Ladder; Jacob's;Echelle de tangon
-Ladder; RAS tripod;Echelle de trépied de RAM
-Ladder; accommodation;Echelle de coupée
-Ladder; boarding;Echelle de coque
-Ladder; communicating;Echelle de communication
-Ladder; divers';Echelle pour plongeurs
-Ladder; jumping;Echelle de pilote (d'accès à bord)
-Ladder; pilot;Echelle de pilote
-Ladder; rope;Echelle de corde
-Ladder; sliding bunk;Echelle de couchette coulissante h=1
-Ladder; sloping;Echelle inclinée
-Ladder; vertical;Echelle verticale
+Ladder Jacob's;Echelle de Jacob
+Ladder Jacob's;Echelle de tangon
+Ladder RAS tripod;Echelle de trépied de RAM
+Ladder accommodation;Echelle de coupée
+Ladder boarding;Echelle de coque
+Ladder communicating;Echelle de communication
+Ladder divers';Echelle pour plongeurs
+Ladder jumping;Echelle de pilote (d'accès à bord)
+Ladder pilot;Echelle de pilote
+Ladder rope;Echelle de corde
+Ladder sliding bunk;Echelle de couchette coulissante h=1
+Ladder sloping;Echelle inclinée
+Ladder vertical;Echelle verticale
 Ladle;Louche
 Lag;Retard
 Lag;Traînée (de phase)
 Lagging;Boisage
 Lagging;Calorifugeage
-Lagging;phase;Déphasé en Arrière
+Lagging phase;Déphasé en Arrière
 Lagoon;Lagune / Lagon
 Laid down;Mise sur cale
 Laid down in the contract;Prévu dans contrat
@@ -34672,14 +34675,14 @@ Weighted;Lesté(e)
 Weighted mean;Moyenne arithmétique pondérée
 Weighted sum;Somme pondérée
 Weights;Forces de pesanteur
-Weight; average;Poids moyen
-Weight; balance;Masse d'équilibrage
-Weight; bob;Masse de compensation
-Weight; burnout;Poids à l'épuisement du combustible
-Weight; dead;Poids mort
-Weight; dry;Poids à sec
-Weight; gross;Poids brut
-Weight; landing;Masse à l'atterrissage
+Weight average;Poids moyen
+Weight balance;Masse d'équilibrage
+Weight bob;Masse de compensation
+Weight burnout;Poids à l'épuisement du combustible
+Weight dead;Poids mort
+Weight dry;Poids à sec
+Weight gross;Poids brut
+Weight landing;Masse à l'atterrissage
 Weld;Soudure
 Weld  seam (completed) or bead;Cordon de soudure
 Weld bead thickness;Calibre de soudage
@@ -34724,204 +34727,204 @@ Welding torch carrier;Chariot transporteur pour torche de
 Welding using a surrounding inductor;Soudage à l'aide d'une bobine de sel
 Welding using rod inductors;Soudage à l'aide de tiges d'inductio
 Welding wire;Fil électrode de soudage
-Welding; HF resistance;Soudage par résistance à haute fréqu
-Welding; MIG;Soudage MIG
-Welding; TIG;Soudage TIG
-Welding; air-acetylene;Soudage à l'acéthylène
-Welding; alumino-thermic;Soudage aluminothermique
-Welding; arc;Soudage à l'arc
-Welding; arc;Soudage électrique à l'arc
-Welding; arc stud;Soudage à l'arc des goujons
-Welding; arc stud;Soudage à l'arc des goujons
-Welding; atomic hydrogen (special fu;Soudage à l'hydrogène atomique (proc
-Welding; automatic;Soudage automatique
-Welding; automatic arc;Soudage à l'arc automatique
-Welding; automatic or semi-automatic;Soudure automatique ou semi-automati
-Welding; back;Soudure avec reprise à l'envers
-Welding; back step;Soudage à pas de pèlerin
-Welding; backhand;Soudage en arrière
-Welding; backhand;Soudage en arrière
-Welding; backward;Soudage à droite
-Welding; braze;Soudobrasage
-Welding; butt;Soudage à franc-bord
-Welding; butt;Soudage bout à bout
-Welding; butt;Soudage en bout
-Welding; capacitor discharge arc stu;Soudage à l'arc par décharge de cond
-Welding; carbon arc;Soudage à l'arc à l'électrodes de ca
-Welding; cold pressure;Soudage a froid
-Welding; cold pressure;Soudage par pression à froid
-Welding; consumable guide electrosla;Soudage sous laitier avec guide cons
-Welding; continuous fillet;Soudage d'angle continu
-Welding; corner;Soudage d'angle (extérieur)
-Welding; diffusion;Soudage par diffusion
-Welding; direct;Soudage direct
-Welding; discharge;Soudage à décharge
-Welding; down hand;Soudure à l'endroit
-Welding; downhand;Soudage à plat
-Welding; drawn arc stud;Soudage à l'arc tiré
-Welding; electric arc;Soudage à l'arc électrique
-Welding; electrogas;Soudage sous gaz de protection
-Welding; electron beam;Soudage par faisceau d'électrons
-Welding; electron beam  (special fus;Soudage par bombardement électroniqu
-Welding; electroslag;Soudage électrique sous laitier
-Welding; electroslag;Soudage sous laitier
-Welding; explosive/explosion;Soudage par explosion
-Welding; extrusion;Soudage par extrusion
-Welding; fflux-cored arc; with/witho;Soudage à l'arc avec fil fourré avec
-Welding; fillet;Soudage d'angle
-Welding; flash (electric resistance);Soudage par étincelage (par résistan
-Welding; flux and electrode fed sepa;Soudage flux alimenté séparément
-Welding; flux integral with electrod;Soudage à l'arc flux incorporé à l'é
-Welding; flux integral with electrod;Soudage fil-flux
-Welding; flux-cored arc;Soudage à l'arc avec électrode fourr
-Welding; flux-cored arc;Soudage à l'arc avec fil fourré avec
-Welding; flux-cored arc welding with;Soudage à l'arc sous gaz actif avec
-Welding; flux-cored wire metal-arc;Soudage à l'arc avec fil fourré
-Welding; forehand;Soudage en avant
-Welding; forge;Soudage par forgeage
-Welding; friction (without fusion);Soudage par friction (sans fusion)
-Welding; friction/spin;Soudage par friction
-Welding; full penetration;Soudure à pleine pénétration
-Welding; fusion;Soudage autogène
-Welding; fusion;Soudage par fusion
-Welding; gas;Soudage aux gaz
-Welding; gas metal arc;Soudage à l'arc sous protection gaze
-Welding; gas pressure;Soudage aux gaz par pression
-Welding; gas tungsten arc;Soudage TIG ( soudage à l'arc en atm
-Welding; gas-shielded metal arc;Soudage à l'arc sous protection gaze
-Welding; gravity arc; with covered e;Soudage à l'arc par gravité avec éle
-Welding; gravity position;Soudage à plat
-Welding; high-frequency welding/diel;Soudage par haute fréquence/soudage
-Welding; horizontal;Soudage en corniche
-Welding; hot gas;Soudage au gaz chaud
-Welding; indirect;Soudage indirect
-Welding; induction;Soudage par induction
-Welding; inert gas;Soudage à l'arc en atmosphère inerte
-Welding; inert gas;Soudage en atmosphère inerte
-Welding; inert gas;Soudage sous atmosphère inerte
-Welding; inside;Soudage intérieur
-Welding; interrupted;Soudage discontinu
-Welding; keyhole;"Soudage par ""trou de serrure"""
-Welding; laser beam;Soudage au laser
-Welding; laser beam;Soudage par faisceau laser
-Welding; light radiation;Soudage par rayonnement lumineux
-Welding; machine;Soudage à la machine
-Welding; manual;Soudage manuel
-Welding; manual arc;Soudage à l'arc manuel
-Welding; mash seam;Soudage par écrasement
-Welding; metal active gas (MAG);Soudage MAG
-Welding; metal arc active gas;Soudage à l'arc sous protection gaze
-Welding; metal-arc;Soudage à l'arc avec électrode fusib
-Welding; metal-arc; with covered ele;Soudage à l'arc avec électrode enrob
-Welding; multi-pass automatic;Soudage automatique en passes multip
-Welding; overhead;Soudage au plafond
-Welding; overhead;Soudure à l'envers
-Welding; oxyacetylene;Soudage au chalumeau
-Welding; oxyacetylene (fusion weldin;Soudage oxyacétylénique (autogène)
-Welding; oxyhydrogen (fusion welding;Soudage oxhydrique  (autogène)
-Welding; plasma arc;Soudage au plasma
-Welding; plasma inert gas (using gas;Soudage à l'arc au plasma (sous gaz
-Welding; pressure;Soudage par pression
-Welding; projection;Soudage de saillies
-Welding; projection;Soudage par bossages
-Welding; pulsed power;Soudage à l'arc pulsé
-Welding; resistance;Soudage par résistance
-Welding; resistance butt;Soudage en bout par résistance pure
-Welding; resistance stud;Soudage de goujons par résistance
-Welding; roller;Soudage à la molette
-Welding; seam;Soudage à la molette
-Welding; semi-automatic arc;Soudage à l'arc semi-automatique
-Welding; shielded metal arc;Soudage à l'arc avec électrode enrob
-Welding; shielded metal arc; with el;Soudage à l'arc avec électrode rende
-Welding; single-pass;Soudage en une passe
-Welding; skip;Soudage fractionné
-Welding; slot;Soudure bouchon
-Welding; spot;Soudage par points
-Welding; stud;Soudage de goujons
-Welding; stud;Soudage des goujons
-Welding; stud;Soudage par pression
-Welding; submerged arc;Soudage à l'arc sous flux/ sous flux
-Welding; submerged arc;Soudage sous flux électroconducteur
-Welding; tack;Soudure d'agrafage
-Welding; thermic;Soudage par aluminothermie (réaction
-Welding; tungsten inert gas arc;Soudage TIG
-Welding; ultrasonic;Soudage par ultrasons
-Welding; ultrasonic;Soudage ultrasonique/soudage par ult
-Welding; ultrasonic (without fusion);Soudage par ultrasons (sans fusion)
-Welding; underwater;Soudage sous l'eau
-Welding; unionmelt;"Soudage ""unionmelt"""
-Welding; uphand;Soudage en montant
-Welding; upset;Soudage par refoulement
-Welding; vertical;Soudage vertical
+Welding HF resistance;Soudage par résistance à haute fréqu
+Welding MIG;Soudage MIG
+Welding TIG;Soudage TIG
+Welding air-acetylene;Soudage à l'acéthylène
+Welding alumino-thermic;Soudage aluminothermique
+Welding arc;Soudage à l'arc
+Welding arc;Soudage électrique à l'arc
+Welding arc stud;Soudage à l'arc des goujons
+Welding arc stud;Soudage à l'arc des goujons
+Welding atomic hydrogen (special fu;Soudage à l'hydrogène atomique (proc
+Welding automatic;Soudage automatique
+Welding automatic arc;Soudage à l'arc automatique
+Welding automatic or semi-automatic;Soudure automatique ou semi-automati
+Welding back;Soudure avec reprise à l'envers
+Welding back step;Soudage à pas de pèlerin
+Welding backhand;Soudage en arrière
+Welding backhand;Soudage en arrière
+Welding backward;Soudage à droite
+Welding braze;Soudobrasage
+Welding butt;Soudage à franc-bord
+Welding butt;Soudage bout à bout
+Welding butt;Soudage en bout
+Welding capacitor discharge arc stu;Soudage à l'arc par décharge de cond
+Welding carbon arc;Soudage à l'arc à l'électrodes de ca
+Welding cold pressure;Soudage a froid
+Welding cold pressure;Soudage par pression à froid
+Welding consumable guide electrosla;Soudage sous laitier avec guide cons
+Welding continuous fillet;Soudage d'angle continu
+Welding corner;Soudage d'angle (extérieur)
+Welding diffusion;Soudage par diffusion
+Welding direct;Soudage direct
+Welding discharge;Soudage à décharge
+Welding down hand;Soudure à l'endroit
+Welding downhand;Soudage à plat
+Welding drawn arc stud;Soudage à l'arc tiré
+Welding electric arc;Soudage à l'arc électrique
+Welding electrogas;Soudage sous gaz de protection
+Welding electron beam;Soudage par faisceau d'électrons
+Welding electron beam  (special fus;Soudage par bombardement électroniqu
+Welding electroslag;Soudage électrique sous laitier
+Welding electroslag;Soudage sous laitier
+Welding explosive/explosion;Soudage par explosion
+Welding extrusion;Soudage par extrusion
+Welding fflux-cored arc with/witho;Soudage à l'arc avec fil fourré avec
+Welding fillet;Soudage d'angle
+Welding flash (electric resistance);Soudage par étincelage (par résistan
+Welding flux and electrode fed sepa;Soudage flux alimenté séparément
+Welding flux integral with electrod;Soudage à l'arc flux incorporé à l'é
+Welding flux integral with electrod;Soudage fil-flux
+Welding flux-cored arc;Soudage à l'arc avec électrode fourr
+Welding flux-cored arc;Soudage à l'arc avec fil fourré avec
+Welding flux-cored arc welding with;Soudage à l'arc sous gaz actif avec
+Welding flux-cored wire metal-arc;Soudage à l'arc avec fil fourré
+Welding forehand;Soudage en avant
+Welding forge;Soudage par forgeage
+Welding friction (without fusion);Soudage par friction (sans fusion)
+Welding friction/spin;Soudage par friction
+Welding full penetration;Soudure à pleine pénétration
+Welding fusion;Soudage autogène
+Welding fusion;Soudage par fusion
+Welding gas;Soudage aux gaz
+Welding gas metal arc;Soudage à l'arc sous protection gaze
+Welding gas pressure;Soudage aux gaz par pression
+Welding gas tungsten arc;Soudage TIG ( soudage à l'arc en atm
+Welding gas-shielded metal arc;Soudage à l'arc sous protection gaze
+Welding gravity arc; with covered e;Soudage à l'arc par gravité avec éle
+Welding gravity position;Soudage à plat
+Welding high-frequency welding/diel;Soudage par haute fréquence/soudage
+Welding horizontal;Soudage en corniche
+Welding hot gas;Soudage au gaz chaud
+Welding indirect;Soudage indirect
+Welding induction;Soudage par induction
+Welding inert gas;Soudage à l'arc en atmosphère inerte
+Welding inert gas;Soudage en atmosphère inerte
+Welding inert gas;Soudage sous atmosphère inerte
+Welding inside;Soudage intérieur
+Welding interrupted;Soudage discontinu
+Welding keyhole;"Soudage par ""trou de serrure"""
+Welding laser beam;Soudage au laser
+Welding laser beam;Soudage par faisceau laser
+Welding light radiation;Soudage par rayonnement lumineux
+Welding machine;Soudage à la machine
+Welding manual;Soudage manuel
+Welding manual arc;Soudage à l'arc manuel
+Welding mash seam;Soudage par écrasement
+Welding metal active gas (MAG);Soudage MAG
+Welding metal arc active gas;Soudage à l'arc sous protection gaze
+Welding metal-arc;Soudage à l'arc avec électrode fusib
+Welding metal-arc; with covered ele;Soudage à l'arc avec électrode enrob
+Welding multi-pass automatic;Soudage automatique en passes multip
+Welding overhead;Soudage au plafond
+Welding overhead;Soudure à l'envers
+Welding oxyacetylene;Soudage au chalumeau
+Welding oxyacetylene (fusion weldin;Soudage oxyacétylénique (autogène)
+Welding oxyhydrogen (fusion welding;Soudage oxhydrique  (autogène)
+Welding plasma arc;Soudage au plasma
+Welding plasma inert gas (using gas;Soudage à l'arc au plasma (sous gaz
+Welding pressure;Soudage par pression
+Welding projection;Soudage de saillies
+Welding projection;Soudage par bossages
+Welding pulsed power;Soudage à l'arc pulsé
+Welding resistance;Soudage par résistance
+Welding resistance butt;Soudage en bout par résistance pure
+Welding resistance stud;Soudage de goujons par résistance
+Welding roller;Soudage à la molette
+Welding seam;Soudage à la molette
+Welding semi-automatic arc;Soudage à l'arc semi-automatique
+Welding shielded metal arc;Soudage à l'arc avec électrode enrob
+Welding shielded metal arc; with el;Soudage à l'arc avec électrode rende
+Welding single-pass;Soudage en une passe
+Welding skip;Soudage fractionné
+Welding slot;Soudure bouchon
+Welding spot;Soudage par points
+Welding stud;Soudage de goujons
+Welding stud;Soudage des goujons
+Welding stud;Soudage par pression
+Welding submerged arc;Soudage à l'arc sous flux/ sous flux
+Welding submerged arc;Soudage sous flux électroconducteur
+Welding tack;Soudure d'agrafage
+Welding thermic;Soudage par aluminothermie (réaction
+Welding tungsten inert gas arc;Soudage TIG
+Welding ultrasonic;Soudage par ultrasons
+Welding ultrasonic;Soudage ultrasonique/soudage par ult
+Welding ultrasonic (without fusion);Soudage par ultrasons (sans fusion)
+Welding underwater;Soudage sous l'eau
+Welding unionmelt;"Soudage ""unionmelt"""
+Welding uphand;Soudage en montant
+Welding upset;Soudage par refoulement
+Welding vertical;Soudage vertical
 Weldment;Assemblage soudé
 Weldment;Ensemble soudé
 Weldment (assembly);Construction soudée (ensemble)
 Welds; staggered;Soudures alternées
-Weld; V butt;"Soudure avec préparation en ""v"""
-Weld; back;Soudure envers
-Weld; backing;Soudure envers
-Weld; butt;Soudure à franc bord
-Weld; butt;Soudure bord à bord
-Weld; butt;Soudure en bout
-Weld; butt;Soudures sur bords relevés
-Weld; butt; downhand welding positio;Soudure bout à bout au plafond
-Weld; butt; horizontal welding posit;Soudure bout à bout en corniche
-Weld; butt; vertical downwards weldi;Soudure bout à bout vertical descend
-Weld; chain intermittent;Soudure discontinue symétrique
-Weld; concave fillet;Soudure à cordon concave
-Weld; concave fillet;Soudure d'angle concave
-Weld; continuous;Cordon continu
-Weld; continuous;Soudure continue
-Weld; convex Double-V;Soudure en double V (ou en X) convex
-Weld; convex fillet;Soudure à cordon convexe
-Weld; corner;Soudure d'angle extérieure
-Weld; double-J groove;Joint en double J
-Weld; double-U butt;Soudure en double U
-Weld; double-U groove;Joint en double U
-Weld; double-V butt (X-weld);Soudure en double V (ou en X)
-Weld; double-V butt; with broad root;Soudure en X avec méplat
-Weld; double-Vee groove;Joint en X
-Weld; double-bevel butt;Soudure en K
-Weld; double-bevel butt; with broad;Soudure en K avec méplat
-Weld; double-bevel groove;Joint en K
-Weld; edge;Soudure sur chant
-Weld; fillet;Joint d'angle
-Weld; fillet;Soudure d'angle
-Weld; flat single-V butt-; with flat;Soudure en V plate avec reprise à l'
-Weld; flush-finished single-V butt;Soudure en V arasée
-Weld; girth;Joint circonférentiel
-Weld; heterogeneous;Soudure hétérogène
-Weld; homogeneous;Soudure homogène
-Weld; intermittent;Cordon discontinu
-Weld; intermittent;Soudure discontinue
-Weld; meridional;Soudure suivant une génératrice
-Weld; plug;Soudure en bouchon
-Weld; plug; or slot weld (US);Soudures en entailles (ou en bouchon
-Weld; rectification;Soudure de rechargement
-Weld; resistance projection;Soudure par bossages
-Weld; seal;Soudure d'étanchéité
-Weld; seam;Soudure continue
-Weld; seam;Soudure en ligne continue avec recou
-Weld; single-J butt;Soudure en demi U (ou en J)
-Weld; single-J groove;Joint en J
-Weld; single-U butt (parallel or slo;Soudure en U (ou en tulipe)
-Weld; single-U groove;Joint en U
-Weld; single-V butt;Soudure en V
-Weld; single-V butt; with broad root;Soudure en V avec méplat et reprise
-Weld; single-V butt; with broad root;Soudure en Y
-Weld; single-Vee groove;Joint en V
-Weld; single-bevel butt;Soudure en demi V
-Weld; single-bevel butt; with broad;Soudure en demi Y
-Weld; slot;Soudure en boutonnière
-Weld; spot;Soudures par points
-Weld; square butt;Soudure sur bords droits
-Weld; staggered intermittent;Soudure discontinue alternée
-Weld; steep-flanked single-V butt;Soudure en V à flancs droits
-Weld; steep-flanked single-bevel but;Soudure en demi V à flancs droits
-Weld; tack;Point d'agrafage soudé
-Weld; tack;Soudure d'attache
-Weld; tack;Soudure de pointage
-Weld; weave bead;Soudure en lacet (à cordon large)
+Weld V butt;"Soudure avec préparation en ""v"""
+Weld back;Soudure envers
+Weld backing;Soudure envers
+Weld butt;Soudure à franc bord
+Weld butt;Soudure bord à bord
+Weld butt;Soudure en bout
+Weld butt;Soudures sur bords relevés
+Weld butt; downhand welding positio;Soudure bout à bout au plafond
+Weld butt; horizontal welding posit;Soudure bout à bout en corniche
+Weld butt; vertical downwards weldi;Soudure bout à bout vertical descend
+Weld chain intermittent;Soudure discontinue symétrique
+Weld concave fillet;Soudure à cordon concave
+Weld concave fillet;Soudure d'angle concave
+Weld continuous;Cordon continu
+Weld continuous;Soudure continue
+Weld convex Double-V;Soudure en double V (ou en X) convex
+Weld convex fillet;Soudure à cordon convexe
+Weld corner;Soudure d'angle extérieure
+Weld double-J groove;Joint en double J
+Weld double-U butt;Soudure en double U
+Weld double-U groove;Joint en double U
+Weld double-V butt (X-weld);Soudure en double V (ou en X)
+Weld double-V butt; with broad root;Soudure en X avec méplat
+Weld double-Vee groove;Joint en X
+Weld double-bevel butt;Soudure en K
+Weld double-bevel butt; with broad;Soudure en K avec méplat
+Weld double-bevel groove;Joint en K
+Weld edge;Soudure sur chant
+Weld fillet;Joint d'angle
+Weld fillet;Soudure d'angle
+Weld flat single-V butt-; with flat;Soudure en V plate avec reprise à l'
+Weld flush-finished single-V butt;Soudure en V arasée
+Weld girth;Joint circonférentiel
+Weld heterogeneous;Soudure hétérogène
+Weld homogeneous;Soudure homogène
+Weld intermittent;Cordon discontinu
+Weld intermittent;Soudure discontinue
+Weld meridional;Soudure suivant une génératrice
+Weld plug;Soudure en bouchon
+Weld plug; or slot weld (US);Soudures en entailles (ou en bouchon
+Weld rectification;Soudure de rechargement
+Weld resistance projection;Soudure par bossages
+Weld seal;Soudure d'étanchéité
+Weld seam;Soudure continue
+Weld seam;Soudure en ligne continue avec recou
+Weld single-J butt;Soudure en demi U (ou en J)
+Weld single-J groove;Joint en J
+Weld single-U butt (parallel or slo;Soudure en U (ou en tulipe)
+Weld single-U groove;Joint en U
+Weld single-V butt;Soudure en V
+Weld single-V butt; with broad root;Soudure en V avec méplat et reprise
+Weld single-V butt; with broad root;Soudure en Y
+Weld single-Vee groove;Joint en V
+Weld single-bevel butt;Soudure en demi V
+Weld single-bevel butt; with broad;Soudure en demi Y
+Weld slot;Soudure en boutonnière
+Weld spot;Soudures par points
+Weld square butt;Soudure sur bords droits
+Weld staggered intermittent;Soudure discontinue alternée
+Weld steep-flanked single-V butt;Soudure en V à flancs droits
+Weld steep-flanked single-bevel but;Soudure en demi V à flancs droits
+Weld tack;Point d'agrafage soudé
+Weld tack;Soudure d'attache
+Weld tack;Soudure de pointage
+Weld weave bead;Soudure en lacet (à cordon large)
 Well;Puits
 Well axis;Axe de puits
 Well done (Bravo Zulu);Félicitations
@@ -34951,26 +34954,26 @@ Wheel (ship's wheel);Barre à gouverner
 Wheelhouse;Kiosque de timonerie
 Wheelhouse;Timonerie
 Wheelhouse (patrol boat/small ship);Abri de navigation
-Wheels; twin;Roues jumelées
-Wheel; centrifugal;Roue centrifuge
-Wheel; cog;Roue dentée
-Wheel; conical gear;Roue conique
-Wheel; drive;Roue motrice
-Wheel; driving;Roue de commande
-Wheel; final drive gear;Roue menée
-Wheel; flap brush;Roue à grenailler
-Wheel; free;Roue libre
-Wheel; grinding;Roue de meule
-Wheel; main gear;Roue menante
-Wheel; nose;Roue avant
-Wheel; pastry cutting;Roulette de pâtissier
-Wheel; ratchet;Roue à rochet
-Wheel; spare;Roue de secours
-Wheel; steering;Roue de gouvernail
-Wheel; toothed;Roue dentée
-Wheel; upstream;Roue d'amont
-Wheel; worm;Roue à vis sans fin
-Wheel; worm;Roue tangente
+Wheels twin;Roues jumelées
+Wheel centrifugal;Roue centrifuge
+Wheel cog;Roue dentée
+Wheel conical gear;Roue conique
+Wheel drive;Roue motrice
+Wheel driving;Roue de commande
+Wheel final drive gear;Roue menée
+Wheel flap brush;Roue à grenailler
+Wheel free;Roue libre
+Wheel grinding;Roue de meule
+Wheel main gear;Roue menante
+Wheel nose;Roue avant
+Wheel pastry cutting;Roulette de pâtissier
+Wheel ratchet;Roue à rochet
+Wheel spare;Roue de secours
+Wheel steering;Roue de gouvernail
+Wheel toothed;Roue dentée
+Wheel upstream;Roue d'amont
+Wheel worm;Roue à vis sans fin
+Wheel worm;Roue tangente
 Wheel/helm amidships;Zéro la barre
 Where (in a mathematical formula);Avec (formule mathématique)
 Whip;Cartahu
@@ -34990,50 +34993,50 @@ Whole (the);Ensemble de ... (l')
 Widened frame;Couple épanoui
 Wide-angle eye-piece;Visière panoramique
 Width;Laize de toile
-Width; band;Largeur de bande
-Width; bearing;Largeur d'un palier
-Width; external;Largeur externe
-Width; pulse;Largeur d'impulsion
-Width; strand;Largeur du toron
-Wien-bridge oscillator;Pont de Wien; oscillateur à
+Width band;Largeur de bande
+Width bearing;Largeur d'un palier
+Width external;Largeur externe
+Width pulse;Largeur d'impulsion
+Width strand;Largeur du toron
+Wien-bridge oscillator;Pont de Wien oscillateur à
 Will be made available to;Pourra être consulté par
 Winch;Treuil
 Winch derrick;Potence de treuil
 Winch up (to) (into a helicopter);Hélitreuiller
 Winch (to)/pick up;Treuillage
-Winching; dry;Treuillage sur plate-forme
-Winching; stretcher;Treuillage civière
-Winching; wet;Treuillage de naufragés
+Winching dry;Treuillage sur plate-forme
+Winching stretcher;Treuillage civière
+Winching wet;Treuillage de naufragés
 Winchman;Treuilliste
-Winch; RAS;Treuil de RAM
-Winch; automatic-tensioning (AT);Treuil à tensionnement automatique (
-Winch; berthing;Treuil d'amarrage
-Winch; boat;Treuil d'embarcation
-Winch; cargo;Treuil de charge
-Winch; hangar or span;Treuil de martinet
-Winch; heave compensated;Treuil compensé en pilonnement
-Winch; magnetic and acoustic mineswe;Treuil de dragage magnéto-acoustique
-Winch; mechanical minesweeping;Treuil de dragage mécanique
-Winch; minesweeping;Treuil de dragage
-Winch; mooring;Treuil d'amarrage
-Winch; slewing / guy;Treuil de brassage
-Winch; span /topping;Treuil d'apiquage sous charge
-Winch; stowage;Treuil de stockage
-Winch; topping;Treuil d'apiquage à vide
-Winch; towing;Treuil de remorque
-Winch; towing bridle;Treuil de remorque à patte d'oie
-Winch; trawl;Treuil de pêche
-Winch; warping;Treuil de touage
+Winch RAS;Treuil de RAM
+Winch automatic-tensioning (AT);Treuil à tensionnement automatique (
+Winch berthing;Treuil d'amarrage
+Winch boat;Treuil d'embarcation
+Winch cargo;Treuil de charge
+Winch hangar or span;Treuil de martinet
+Winch heave compensated;Treuil compensé en pilonnement
+Winch magnetic and acoustic mineswe;Treuil de dragage magnéto-acoustique
+Winch mechanical minesweeping;Treuil de dragage mécanique
+Winch minesweeping;Treuil de dragage
+Winch mooring;Treuil d'amarrage
+Winch slewing / guy;Treuil de brassage
+Winch span /topping;Treuil d'apiquage sous charge
+Winch stowage;Treuil de stockage
+Winch topping;Treuil d'apiquage à vide
+Winch towing;Treuil de remorque
+Winch towing bridle;Treuil de remorque à patte d'oie
+Winch trawl;Treuil de pêche
+Winch warping;Treuil de touage
 Wind Green 20;Vent à deux heures
 Wind data readout;Lecteur vent
-Wind direction; relative;Direction du vent relatif
+Wind direction relative;Direction du vent relatif
 Wind gauge/anemometer;Anémomètre
 Wind on ship's head;Vent à midi
 Wind over the deck;Vent sur le pont
 Wind red 10;Vent à onze heures
 Wind scoop;Oreille d'âne
 Wind sock;Manche à air
-Wind velocity; relative;Vitesse du vent relatif
+Wind velocity relative;Vitesse du vent relatif
 Wind (to);Enrouler (cordage)
 Windage;Pertes aérodynamiques (mach. tournan
 Windage;Résistance au vent
@@ -35043,17 +35046,17 @@ Winding capability;Aptitude au dévidage
 Winding of a component;Enroulement d'un composant
 Winding temperature rise;Echauffement d'enroulement
 Windings;Bobinage
-Windings; alternator;Enroulement alternateurs
-Winding; armature;Enroulement d'induit
-Winding; ballast;Enroulement de ballast
-Winding; compound;Enroulement compound
-Winding; damper;Enroulement amortisseur
-Winding; field;Enroulement inducteur
-Winding; filament;Enroulement filamentaire
-Winding; form;Enroulement sur gabarit
-Winding; hot;Enroulement à chaud
-Winding; ring;Enroulement en anneau
-Winding; series;Enroulement série
+Windings alternator;Enroulement alternateurs
+Winding armature;Enroulement d'induit
+Winding ballast;Enroulement de ballast
+Winding compound;Enroulement compound
+Winding damper;Enroulement amortisseur
+Winding field;Enroulement inducteur
+Winding filament;Enroulement filamentaire
+Winding form;Enroulement sur gabarit
+Winding hot;Enroulement à chaud
+Winding ring;Enroulement en anneau
+Winding series;Enroulement série
 Windlass;Guindeau
 Windlass cheek;Jambon de guindeau
 Windlass control unit;Combinateur de guindeau
@@ -35065,28 +35068,28 @@ Window;Fenêtre - guide d'ondes
 Window;Vitre
 Window and sidelight box;Niche de hublot et fenêtre
 Window frame;Encadrement de fenêtre
-Window; hinged; opening at the side;Fenêtre à charnières s'ouvrant sur l
-Window; hinged; opening to the outsi;Fenêtre à charnières s'ouvrant vers
-Window; hinged; opening upwards or d;Fenêtre à charnières s'ouvrant vers
-Window; horizontally/vertically slid;Fenêtre coulissant horizontalement/v
+Window hinged opening at the side;Fenêtre à charnières s'ouvrant sur l
+Window hinged opening to the outsi;Fenêtre à charnières s'ouvrant vers
+Window hinged opening upwards or d;Fenêtre à charnières s'ouvrant vers
+Window horizontally/vertically slid;Fenêtre coulissant horizontalement/v
 Window; non-opening;Fenêtre fixe
 Windscreen wiper;Essuie-glace
-Wind; beam;Vent de travers
-Wind; prevailing;Vent régnant
-Wind; relative;Vent relatif/apparent
-Wind; true;Vent absolu
-Wind; true;Vent vrai
+Wind beam;Vent de travers
+Wind prevailing;Vent régnant
+Wind relative;Vent relatif/apparent
+Wind true;Vent absolu
+Wind true;Vent vrai
 Wine-waiter's corkscrew;Tire-bouchon de sommelier
 Wing;Aile
 Wing;Kiosque (de moteur électrique immerg
 Wing;Oreilles
 Wing section;Profil d'aile
-Wings; pitch;Ailes tangage
-Wings; yaw;Ailes lacet
+Wings pitch;Ailes tangage
+Wings yaw;Ailes lacet
 Wing-in-ground effect craft;Véhicule à effet de surface
-Wing; bridge;Aileron
-Wing; bridge;Aileron de passerelle
-Wing; spring-operated;Aileron actionné par ressort
+Wing bridge;Aileron
+Wing bridge;Aileron de passerelle
+Wing spring-operated;Aileron actionné par ressort
 Winterize (to);Hiverniser
 Wiper;Balai (instrumentation)
 Wiper;Curseur (de potentiomètre...)
@@ -35112,51 +35115,51 @@ Wired;Câble (adj.)
 Wired interlock or safety system;Sécurité câblée
 Wired internal connector;Prise câblée interne
 Wireway;Passage de fil
-Wire; Litz;Fil de litz
-Wire; baling;Fil à lier
-Wire; berthing;Aussière en fil d'acier
-Wire; binding;Fil à fretter
-Wire; coated;Fil enrobé
-Wire; contact;Fil de contact
-Wire; dead wire;Fil non alimenté
-Wire; earth/ground;Conducteur de masse/terre
-Wire; filler;Fil d'apport
-Wire; float;Pendeur de flotteur
-Wire; flux-cored;Fil fourré
-Wire; flux-cored electrode;Fil électrode fourrée
-Wire; free;Toron libre
-Wire; fuse;Fil  fusible
-Wire; glow;Fil incandescent
-Wire; ground/earth;Conducteur de masse
-Wire; ground/earth;Fil de masse
-Wire; guidance (missile);Fil de guidage
-Wire; insulated;Fil isolé
-Wire; kite;Câble de plongeur
-Wire; locking;Fil de freinage (de boulons; ...)
-Wire; nickel-chromium glow;Fil Ni-Cr incandescent
-Wire; piano;Corde à piano
-Wire; serrated;Câble coupant
-Wire; solid bare electrode;Fil électrode nu massif
-Wire; steel;Fil d'acier
-Wire; striker;Fil percuteur
-Wire; stripped;Fil électrique dénudé
+Wire Litz;Fil de litz
+Wire baling;Fil à lier
+Wire berthing;Aussière en fil d'acier
+Wire binding;Fil à fretter
+Wire coated;Fil enrobé
+Wire contact;Fil de contact
+Wire dead wire;Fil non alimenté
+Wire earth/ground;Conducteur de masse/terre
+Wire filler;Fil d'apport
+Wire float;Pendeur de flotteur
+Wire flux-cored;Fil fourré
+Wire flux-cored electrode;Fil électrode fourrée
+Wire free;Toron libre
+Wire fuse;Fil  fusible
+Wire glow;Fil incandescent
+Wire ground/earth;Conducteur de masse
+Wire ground/earth;Fil de masse
+Wire guidance (missile);Fil de guidage
+Wire insulated;Fil isolé
+Wire kite;Câble de plongeur
+Wire locking;Fil de freinage (de boulons; ...)
+Wire nickel-chromium glow;Fil Ni-Cr incandescent
+Wire piano;Corde à piano
+Wire serrated;Câble coupant
+Wire solid bare electrode;Fil électrode nu massif
+Wire steel;Fil d'acier
+Wire striker;Fil percuteur
+Wire stripped;Fil électrique dénudé
 Wiring;Câblage
 Wiring between wiring subdivisions;Câblage inter-zones
 Wiring mock-up;Mannequin de câblage
 Wiring of centralized power supply c;Câblage des réseau et de la conduite
 Wiring record;Suivi de la gestion des câbles (fich
 Wiring side;Côté câblage
-Wiring; 20 AWG  (AWG = american stan;Câblage en jauge 20 -selon contexte
-Wiring; Pyrotenax-type;"Câblage ""pyrotenax"""
-Wiring; construction subdivision;Câblage localisé
-Wiring; degaussing;Câblage d'immunisation
-Wiring; electric fan;Câblage de l'électroventilateur
-Wiring; electrical;Câblage électrique
-Wiring; external;Câblage externe
-Wiring; fixed;Câblage fixe
-Wiring; heat-resistant;Câblage résistant à la chaleur
-Wiring; internal;Câblage interne
-Wiring; through;Câblage traversant le luminaire
+Wiring 20 AWG  (AWG = american stan;Câblage en jauge 20 -selon contexte
+Wiring Pyrotenax-type;"Câblage ""pyrotenax"""
+Wiring construction subdivision;Câblage localisé
+Wiring degaussing;Câblage d'immunisation
+Wiring electric fan;Câblage de l'électroventilateur
+Wiring electrical;Câblage électrique
+Wiring external;Câblage externe
+Wiring fixed;Câblage fixe
+Wiring heat-resistant;Câblage résistant à la chaleur
+Wiring internal;Câblage interne
+Wiring through;Câblage traversant le luminaire
 With access to the upper deck;Donnant sur l'extérieur
 With an angular distribution;Réparti angulairement
 With elevation adjustment;Orientable en site
@@ -35164,9 +35167,9 @@ With flexible connection(s);A connexion(s) flexible(s) (câbles)
 With no interruptions originating in;Sans interruption d'origine fonction
 With recessed contact(s);A contact(s) encastré(s)
 With redundancy;Redondé
-With single contact pin (post; tab;;A une seule broche de contact (tige;
+With single contact pin (post; tab;A une seule broche de contact (tige;
 With the lay;Dans le sens du commettage
-With two or more contact pins (post;;A deux ou plusieurs broches de conta
+With two or more contact pins (post;A deux ou plusieurs broches de conta
 Withdraw (to);Retirer (opération relativement faci
 Within the framework of...;Tenant compte des spécificités propr
 Within the jurisdiction of (to be);Etre du ressort de
@@ -35182,9 +35185,9 @@ Wooden rule;Double-mètre en bois
 Woodwork;Menuiserie
 Wood-fibre board;Panneau de fibre de bois
 Woofer;Haut-parleur haute fidélité pour trè
-Word after;Mot après; le
-Word before;Mot avant; le
-Words twice;Mots deux fois; les
+Word after;Mot après 
+Word before;Mot avant 
+Words twice;Mots deux fois
 Work;Ouvrage
 Work;Travail
 Work bench;Etabli
@@ -35204,7 +35207,7 @@ Work schedule;Plan de charge
 Work scheduled;Budget encouru
 Work size;Dimension d'exécution
 Work station space requirements;Encombrement des postes de travail
-Work station; multi-function;Station de travail multifonction
+Work station multi-function;Station de travail multifonction
 Work study assistant;Ouvrier d'étude du travail
 Work table fitted with a refuse cont;Table de préparation (de repas froid
 Work table fitted with drawers;Table de préparation (de repas froid
@@ -35225,11 +35228,11 @@ Working stock;Stock de roulement
 Workmanship;Qualité d'exécution
 Workpiece;Pièce
 Worksheets;Fiches d'intervention
-Worksheets; dismantle-reassemble-adj;Fiches de démontage-remontage-réglag
-Worksheets; maintenance schedule;Fiches échéancier d'entretien
-Worksheets; summary;Fiches récapitulatives
-Worksheet; inspection;Fiche d'expertise
-Worksheet; maintenance guide;Fiche guide de maintenance
+Worksheets dismantle-reassemble-adj;Fiches de démontage-remontage-réglag
+Worksheets maintenance schedule;Fiches échéancier d'entretien
+Worksheets summary;Fiches récapitulatives
+Worksheet inspection;Fiche d'expertise
+Worksheet maintenance guide;Fiche guide de maintenance
 Workshop;Atelier
 Workshop;Local atelier
 Workshop assembly;Montage à l'atelier
@@ -35239,26 +35242,26 @@ Workshop memo;Note d'atelier
 Workshop self-inspections;Auto-contrôles en atelier
 Workshop testing;Epreuve en atelier
 Workshop (on board) / shop (ashore);Atelier
-Workshops; ship repair facility;Ateliers du chantier de réparation d
-Workshops; shipyard;Ateliers chantiers
-Workshop; Composite Materials;Atelier Matériaux Composites
-Workshop; Mechanical; Machining and;Atelier Mécanique; Usinages; Hydraul
-Workshop; aviation electrical;Atelier élec. avia
-Workshop; combat system;Atelier des systèmes de combat
-Workshop; divers';Atelier des plongeurs
-Workshop; electrical;Atelier électricité
-Workshop; electronic equipment;Atelier pour matériels électroniques
-Workshop; electronics;Atelier d'Electronique
-Workshop; engine;Atelier machine
-Workshop; engine room;Atelier de compartiment machines
-Workshop; machinery (SAW II);Atelier machines (SAW II)
-Workshop; mechanical;Atelier de mécanique
-Workshop; mobile;Atelier mobile
-Workshop; non-electronic equipment;Atelier pour matériels non électroni
-Workshop; pyrotechnics;Atelier Pyrotechnique
-Workshop; reworking;Atelier de retouches
-Workshop; ship's boat;Atelier embarcations
-Workshop; ventilation safety;Atelier sécurité ventilation
+Workshops ship repair facility;Ateliers du chantier de réparation d
+Workshops shipyard;Ateliers chantiers
+Workshop Composite Materials;Atelier Matériaux Composites
+Workshop Mechanical; Machining and;Atelier Mécanique; Usinages; Hydraul
+Workshop aviation electrical;Atelier élec. avia
+Workshop combat system;Atelier des systèmes de combat
+Workshop divers';Atelier des plongeurs
+Workshop electrical;Atelier électricité
+Workshop electronic equipment;Atelier pour matériels électroniques
+Workshop electronics;Atelier d'Electronique
+Workshop engine;Atelier machine
+Workshop engine room;Atelier de compartiment machines
+Workshop machinery (SAW II);Atelier machines (SAW II)
+Workshop mechanical;Atelier de mécanique
+Workshop mobile;Atelier mobile
+Workshop non-electronic equipment;Atelier pour matériels non électroni
+Workshop pyrotechnics;Atelier Pyrotechnique
+Workshop reworking;Atelier de retouches
+Workshop ship's boat;Atelier embarcations
+Workshop ventilation safety;Atelier sécurité ventilation
 Workstation;Poste de travail
 Workstation; Navigation system;Poste de travail du système de navig
 Worktable;Table de travail
@@ -35276,53 +35279,53 @@ Wreckage;Débris
 Wrench;Poignée de vanne
 Wrench (US);Clé
 Wrench-tight;Bloqué à refus
-Wrench; adjustable;Clé à crémaillère (Clé réglable)
-Wrench; adjustable;Clé à molette
-Wrench; adjustable;Clé anglaise
-Wrench; air;Clé pneumatique
-Wrench; angled socket;Clé à pipe
-Wrench; box;Clé en tube coudée
-Wrench; chain;Serre tube à chaîne
-Wrench; combination;Clé mixte
-Wrench; crescent;Clé à molette
-Wrench; dial type torque;Clé dynamométrique à lecture directe
-Wrench; flare-nut;Clé à tuyauter
-Wrench; goose-neck;Clé à col de cygne
-Wrench; hexagonal head;Clé mâle (6 pans)
-Wrench; holding;Clé de maintien
-Wrench; hook;Clé à ergot
-Wrench; hook;Clé à griffe
-Wrench; hook;Clé pélican
-Wrench; hook;Clé tricoise
-Wrench; impact;Clé à frapper
-Wrench; impact;Clé à frapper
-Wrench; monkey;Clé à crémaillère
-Wrench; monkey;Clé à molette
-Wrench; multiple;Clé multiple
-Wrench; offset ring wrench;Clé polygonale contre-coudée
-Wrench; open;Clé plate
-Wrench; open end;Clé à fourche
-Wrench; open-end;Clé plate à fourche
-Wrench; pin;Clé à ergot
-Wrench; pipe;Clé serre-tubes
-Wrench; ratchet;Clé à cliquet
-Wrench; recocking ratchet   (for 20m;Clé à cliquet de réarmement
-Wrench; ring;Clé à oeil
-Wrench; ring;Clé à oeil
-Wrench; ring spanner;Clé polygonale
-Wrench; single-ended;Clé plaste simple
-Wrench; socket;Clé à douille
-Wrench; spark plug;Clé à bougies
-Wrench; special socket;Clé à douille
-Wrench; standby air;Clé pneumatique de secours
-Wrench; star;Clé étoile
-Wrench; strap;Clé à bride
-Wrench; strap;Clé à sangle (à bride)
-Wrench; strap;Serre-tubes à sangle
-Wrench; tap;Tourne-à-gauche
-Wrench; torque;Clé à cadran
-Wrench; torque;Clé dynamométrique
-Wrench; torque setting;Clé dynamométrique à réarmement manu
+Wrench adjustable;Clé à crémaillère (Clé réglable)
+Wrench adjustable;Clé à molette
+Wrench adjustable;Clé anglaise
+Wrench air;Clé pneumatique
+Wrench angled socket;Clé à pipe
+Wrench box;Clé en tube coudée
+Wrench chain;Serre tube à chaîne
+Wrench combination;Clé mixte
+Wrench crescent;Clé à molette
+Wrench dial type torque;Clé dynamométrique à lecture directe
+Wrench flare-nut;Clé à tuyauter
+Wrench goose-neck;Clé à col de cygne
+Wrench hexagonal head;Clé mâle (6 pans)
+Wrench holding;Clé de maintien
+Wrench hook;Clé à ergot
+Wrench hook;Clé à griffe
+Wrench hook;Clé pélican
+Wrench hook;Clé tricoise
+Wrench impact;Clé à frapper
+Wrench impact;Clé à frapper
+Wrench monkey;Clé à crémaillère
+Wrench monkey;Clé à molette
+Wrench multiple;Clé multiple
+Wrench offset ring wrench;Clé polygonale contre-coudée
+Wrench open;Clé plate
+Wrench open end;Clé à fourche
+Wrench open-end;Clé plate à fourche
+Wrench pin;Clé à ergot
+Wrench pipe;Clé serre-tubes
+Wrench ratchet;Clé à cliquet
+Wrench recocking ratchet   (for 20m;Clé à cliquet de réarmement
+Wrench ring;Clé à oeil
+Wrench ring;Clé à oeil
+Wrench ring spanner;Clé polygonale
+Wrench single-ended;Clé plaste simple
+Wrench socket;Clé à douille
+Wrench spark plug;Clé à bougies
+Wrench special socket;Clé à douille
+Wrench standby air;Clé pneumatique de secours
+Wrench star;Clé étoile
+Wrench strap;Clé à bride
+Wrench strap;Clé à sangle (à bride)
+Wrench strap;Serre-tubes à sangle
+Wrench tap;Tourne-à-gauche
+Wrench torque;Clé à cadran
+Wrench torque;Clé dynamométrique
+Wrench torque setting;Clé dynamométrique à réarmement manu
 Wrinkle;Ride
 Wrinkling;Frisage
 Write in (to);Enregistrer (mettre en mémoire)
@@ -35340,7 +35343,7 @@ X-coordinate of centre of buoyancy;Abscisse du centre de carène
 X-coordinate of centre of flotation;Abscisse du centre de flottaison
 X-coordinate of centre of gravity;Abscisse du centre de gravité
 X-ray examination by sampling;Contrôle radiographique par sondage
-X-ray facility;Radiologique; installation
+X-ray facility;Radiologique installation
 X-ray or gamma-ray radiography;Radiographie aux rayons X ou aux ray
 X-ray photography;Radiographie
 X-ray shield (in sick bay);Ecran anti-rayons-X (infirmerie)
@@ -35357,23 +35360,23 @@ Yard quality assurance representativ;Assistant qualité du chantier
 Yard / site management;Direction de chantier
 Yardam;Bout de vergue
 Yarn;Fil
-Yarn; beamed;Fil sur ensouple
-Yarn; folded / plied;Fil retors
-Yarn; glass staple fibre;Fil de verranne
-Yarn; single;Fil simple
-Yarn; spun;Filé
-Yarn; texturized;Fil texturé
+Yarn beamed;Fil sur ensouple
+Yarn folded / plied;Fil retors
+Yarn glass staple fibre;Fil de verranne
+Yarn single;Fil simple
+Yarn spun;Filé
+Yarn texturized;Fil texturé
 Yaw;Faire des embardées
 Yaw (ship motion);Lacet (mouvement du navire)
-Yaw (to);Lacet; faire un
+Yaw (to);Lacet faire un
 Yawing;Lacet
-Year; calendar;Année civile
-Year; leap;Année bissextile
+Year calendar;Année civile
+Year leap;Année bissextile
 Yeoman (SAW II);Secrétaire (SAW II)
 Yield point;Seuil d'écoulement
 Yield point (elastic limit);Limite d'élasticité
 Yield strength / yield stress;Limite élastique
-Yield stress; yield strength;Limite élastique
+Yield stress yield strength;Limite élastique
 Yield (to);Céder
 Yielding strap;"Résilient (support du type ""Résilien"
 Yielding straps;Supports élastiques résilients
@@ -35406,30 +35409,30 @@ Zinc spraying;Métallisation au zinc
 Zinc-coating;Zingage
 Zip fastener (Zipper);Fermeture à glissière
 Zone;Zone
-Zone; Exclusive Economic;Zone économique exclusive
-Zone; PHB junction;Zone de jonction des anneaux
-Zone; ROH Transit (SAW);Zone de transit pour visite périodiq
-Zone; VERTREP drop;Zone de pose VERTREP
-Zone; acceleration;Zone d'accélération
-Zone; cable connection;Zone de câblage
-Zone; damage control (DC);Zone de sécurité
-Zone; deceleration;Zone de ralentissement
-Zone; exclusion;Zone d'exclusion
-Zone; fire;Zone de sécurité
-Zone; fishing;Zone de pêche
-Zone; heat affected;Zone affectée thermiquement
-Zone; heat affected;Zone affectée thermiquement (ZAT)
-Zone; heat affected skin;Zone affectée en peau
-Zone; incubation;Zone d'incubation
-Zone; inshore traffic;Zone de navigation côtière
-Zone; installation;Zones d'installation
-Zone; junction;Zone de jonction
-Zone; missile engagement (MEZ);Zone d'engagement des missiles
-Zone; modular;Zone modulaire
-Zone; neutral;Zone neutre
-Zone; red risk;Zone rouge étanche
-Zone; separation;Zone de séparation
-Zone; ship;Zone du navire
-Zone; skip;Zone de silence
-Zone; thermally affected;Zone affectée thermiquement
+Zone Exclusive Economic;Zone économique exclusive
+Zone PHB junction;Zone de jonction des anneaux
+Zone ROH Transit (SAW);Zone de transit pour visite périodiq
+Zone VERTREP drop;Zone de pose VERTREP
+Zone acceleration;Zone d'accélération
+Zone cable connection;Zone de câblage
+Zone damage control (DC);Zone de sécurité
+Zone deceleration;Zone de ralentissement
+Zone exclusion;Zone d'exclusion
+Zone fire;Zone de sécurité
+Zone fishing;Zone de pêche
+Zone heat affected;Zone affectée thermiquement
+Zone heat affected;Zone affectée thermiquement (ZAT)
+Zone heat affected skin;Zone affectée en peau
+Zone incubation;Zone d'incubation
+Zone inshore traffic;Zone de navigation côtière
+Zone installation;Zones d'installation
+Zone junction;Zone de jonction
+Zone missile engagement (MEZ);Zone d'engagement des missiles
+Zone modular;Zone modulaire
+Zone neutral;Zone neutre
+Zone red risk;Zone rouge étanche
+Zone separation;Zone de séparation
+Zone ship;Zone du navire
+Zone skip;Zone de silence
+Zone thermally affected;Zone affectée thermiquement
 Zoom (to);Changer rapidement de mise au point
