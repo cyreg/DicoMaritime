@@ -4,7 +4,7 @@ import csv
 app = Flask(__name__)
 
 def find_translation(word, source_lang, target_lang, file_path='translations.csv'):
-    with open(file_path, 'r', newline='', encoding='utf-8') as csvfile:
+    with open(file_path, 'r', newline='', encoding='utf-8-sig') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=';')
         for row in reader:
             if row.get(source_lang) and row[source_lang].lower() == word.lower():
@@ -36,7 +36,7 @@ def index():
 
 def get_suggestions(prefix, file_path='translations.csv'):
     suggestions = set()
-    with open(file_path, 'r', newline='', encoding='utf-8') as csvfile:
+    with open(file_path, 'r', newline='', encoding='utf-8-sig') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=';')
         for row in reader:
             if row.get('english') and row['english'].lower().startswith(prefix.lower()):
